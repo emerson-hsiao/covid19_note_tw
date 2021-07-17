@@ -5,6 +5,8 @@
 
 (更新至 7/15)
 
+![](https://i.imgur.com/HLX9app.jpg)
+
 ### 現行管制 全國 第三級
 
 
@@ -443,6 +445,9 @@
 
 * [期間記者會與全國防疫會議](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/S1fCAucY_)
 
+![](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.6435-9/215157673_1933699603463115_1675004944547638369_n.jpg?_nc_cat=1&ccb=1-3&_nc_sid=730e14&_nc_ohc=EkkhsDuIyTEAX_zcpEM&_nc_ht=scontent.ftpe8-3.fna&oh=82263f4227f1e9e84cde1333027126a6&oe=60F69FEE)
+
+
 #### 2021.7.14 記者會
 
 * 影片連結 [1](https://www.youtube.com/watch?v=cn0U8_NWLBw)
@@ -485,7 +490,7 @@
 
 #### 2021.7.15 記者會
 
-* 影片連結 [1](https://www.youtube.com/watch?v=cn0U8_NWLBw)
+* 影片連結 [1](https://www.youtube.com/watch?v=JKCGl40Wzac)
 * 疫情 (133030)
 	* [2021.7.15 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/Ppvh82lbGAf4mdyYY3JanQ?typeid=9) ![](https://i.imgur.com/rllaeMM.jpg)
 	* [![](https://i.imgur.com/msIM0OD.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1932885020211240) 
