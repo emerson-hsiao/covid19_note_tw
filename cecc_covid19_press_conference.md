@@ -4,7 +4,7 @@
 ## 疫情警戒標準 全國二級強化 心頭掠予定 (~8/23)
 
 
-(更新至 8/10)
+(更新至 8/12)
 
 ###  
 
@@ -40,6 +40,7 @@
     * 周邊設施包括淋浴間、三溫暖、蒸氣室、烤箱、戲水池等暫不開放，場內避免飲食，如有販賣部，僅可提供外帶
     * 於場內活動時，除在游泳池內，應配戴口罩並保持社交距離
     * 游泳課程採 10 人以下小班制，落實員工健康監測並訂妥確診者的應變計劃
+* [(8/12-140620)](https://www.youtube.com/watch?v=FvwNvsexu6g&t=9m00s) ![](https://i.imgur.com/ebWN3rs.jpg)
 
 #### 相關提問
 
@@ -57,7 +58,9 @@
 * :::spoiler 海水浴場的開放？ [未報] (8/10-[142109](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=23m9s)/[142217](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=24m57s))
     * 我想那是一件一件來，先開游泳池，看看情況怎麼樣，那再一步步的來
 * 疫情趨緩開學恢復實體上課可能性高，想請問初步的防疫規範與方向有哪些？ [未報] (8/10-[142521](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=28m1s)/[142535](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=28m16s))
-        
+* :::spoiler 桌遊業者希望能適度開放，是否有可能呢？ [未報] (8/11-[141044](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=13m30s)/[141157](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=14m43s)) 
+    * 可以販賣相關的桌遊產品，但是還沒有開放到裡面，就是可以進行桌遊，我想一步一步、一步一步 
+    
 :::
 
 
@@ -74,80 +77,136 @@
 * [2021.5.11~ 新聞稿列表](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H1GfZNKcd) 
 * [Memories](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/SJ6mHuq9d)
 
-#### 2021.8.10 記者會
+#### 2021.8.12 記者會
 
-* 影片連結 [1](https://www.youtube.com/watch?v=oW1HZDY7Dpo)
-* 疫情 [(8/10-140453)](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=7m33s) 
-	* [2021.8.10 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/wmThnLvTBe8aSq-XJfi7Hw?typeid=9) ![](https://i.imgur.com/ye9R5Av.png)
-	* [![](https://i.imgur.com/a9c750F.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1953278434838565) 
-	* [居隔(2/3) 關聯不明(1)](https://hackmd.io/y8DtZuWaSLKJKMR_eiTtPA?both)
-	* [(8/10-140626)](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=9m6s) +3萬(30,217) / 37.11% / 39.32%
-    * (8/10-[142229](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=25m9s)/[142300](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=25m40s)) 今天境外移入個案的疫苗接種情況？ 打完兩劑疫苗後確診的個案數？ [未報] 
-    * (8/10-[142248](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=25m28s)/[142423](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=27m3s)) 疫苗通報事件及死亡？ [未報]
-* 二級延長相關 
-    * [(8/10-141511/141609)](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=17m51s) 護膚業者：臉部護理時若戴口罩、面罩等等的防護措施，是否能夠開放？ [自由時報]
-        * 經濟部有跟相關業者溝通協調中，希望能做一個保護罩
-        * 最重要還是做的人手部的清潔，做的時候如果手摸來摸去，在臉上摸來摸去，其實風險相對的高，所以要隨時注意手部的清潔
-    * [(8/10-141540/141652~141812)](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=19m32s) 同住家人如果在車內吃東西可以不用戴口罩，什麼時候會考慮說同住家人在車內就算沒有吃東西也不用戴口罩？ [自由時報]
-    * (8/10-[141813](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=20m54s)/[142036](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=23m16s)) K 書中心目前沒有開放的考量？ [台視]
-        * 人流密集，管理不易，建議大家在家裡或現在圖書館也有開了，所以相關可以用功讀書的地方其實現在是充裕的
-        * 未來會看相關業者的反應跟指引的建立是否能夠符合整體防疫的需要
-    * (8/10-[142109](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=23m9s)/[142217](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=24m57s)) 海水浴場的開放？ [未報]
-        * 我想那是一件一件來，先開游泳池，看看情況怎麼樣，那再一步步的來
-    * (8/10-[142521](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=28m1s)/[142535](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=28m16s)) 疫情趨緩開學恢復實體上課可能性高，想請問初步的防疫規範與方向有哪些？ [未報]
-* 邊境管制
-    * (8/10-[143135](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=34m15s)/[143231](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=35m11s)) 現在美國疫情越來越嚴重(delta+lambda)，當地專家其實也一直提醒這部分是需要注意的，我們是否有在研議要把美國的防疫等級升級，例如加到高風險國家名單，如果沒有的話，會再怎樣的情況才會考慮新增到名單裡？ [未報]
-        * 現在國外各國都持續在高峰，歐洲的話西班牙、英國、法國，這都還蠻嚴重的
-        * 其實照那樣的標準，很多國家都會列到裡面來，但是現在對入境者其實管理強度是一樣，(差別在)一個在集中檢疫所，一個在防疫旅館，檢驗次數也都一樣
-        * 那如果全部都拉到集中檢疫所來，那恐怕若有天檢疫所要因應國內突然疫情變化時，就怕它的量能不足，所以還是要把那個量能保留在萬一國內有疫情再起的時候，一個重要的緩衝空間
-        * 所以對這樣的管理，目前沒有計畫要來做變更
-* [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
-    * (8/10-[142919](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=31m59s)/[143026](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=33m26s)) [鏡電視]
-        * 打疫苗之外，大家也都看到世界打疫苗覆蓋率很高的國家，像以色列(近七成/第二劑五成)非常高，做得非常成功，可這兩天每日確診個案也都開始超過 3,000，換算起來如果在台灣那將近 1 萬
-        * 所以就是說，各種可能的手段都應該要做，但另一方面也不能強度高過大家的忍耐度，讓防疫疲乏而產生反彈造成反效果，這兩個是需要去平衡的
+* 影片連結 [1](https://www.youtube.com/watch?v=FvwNvsexu6g)
+* 疫情 [(8/12-140419)](https://www.youtube.com/watch?v=FvwNvsexu6g&t=7m) 
+	* [2021.8.12 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/QsICUamqs_LK2XHX3n_KvA?typeid=9) ![](https://i.imgur.com/vTPJNpM.jpg)
+	* [![](https://i.imgur.com/vK7eVNU.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1954824008017341) 
+	* [居隔(1/4) 關聯不明(2)](https://hackmd.io/y8DtZuWaSLKJKMR_eiTtPA?both) TBD
+	* [(8/12-140534)](https://www.youtube.com/watch?v=FvwNvsexu6g&t=8m15s) +16.3萬 / 37.78% / 40.19% 
+    * (8/12-[140945](https://www.youtube.com/watch?v=FvwNvsexu6g&t=12m26s)) 死亡個案說明
+    * (8/12-[141039](https://www.youtube.com/watch?v=FvwNvsexu6g&t=13m20s)) 疫苗通報事件及死亡
+* [(8/12-140555)](https://www.youtube.com/watch?v=FvwNvsexu6g&t=8m36s) ![](https://i.imgur.com/G43TJcA.jpg)
+    * (8/12-[141629](https://www.youtube.com/watch?v=FvwNvsexu6g&t=19m10s)/[141716](https://www.youtube.com/watch?v=FvwNvsexu6g&t=19m57s)) 今天到貨的 AZ 疫苗，現在還是主要是希望以擴大第一劑接種為主，還是說也會開始去進行第二劑的保留？ [未報]
+        * 基本上大概每一次都還是會對第二劑的，如果時間已經到的，還是會做一些保留，那最主要的還是要照著年齡這往下來做開放為主
+    * (8/12-[141952](https://www.youtube.com/watch?v=FvwNvsexu6g&t=22m33s)/[142000](https://www.youtube.com/watch?v=FvwNvsexu6g&t=22m41s)) 今天臨時來疫苗，是我們有暗中催貨嗎？ 還是是預定的時程？ [未報]
+        * 我想每一批貨，那疾管署都非常地努力去催，這都可能稍微一不小心別人就先拿去了，那都是隨時都緊盯著，這是必要的。 縱使緊盯著都還不見得一定會有成效，不過至少緊盯 + 那外交單位的配合，這些都同步地在進行
+* [各類問題](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HyQwwNzhu)
+    * (8/12-[141147](https://www.youtube.com/watch?v=FvwNvsexu6g&t=14m28s)/[141220](https://www.youtube.com/watch?v=FvwNvsexu6g&t=15m01s)) 臺帛旅遊泡泡檢疫有5+9的自主健康管理，但返臺旅客可能只有打第一劑還沒有達到14天，有專家和藍營的立委都認為 檢疫制度太鬆，可能重演當初 3+11 的疫情破口 想請問指揮中心怎麼回應？ [中視]
+        * 主要是要看看這個去的地方的風險情況，才來擬定相對應的一個防疫策略
+        * 那帛琉現在全員已施打疫苗，加上他們自己本土是零確診，那我們使用的是全程包機，並沒有跟其他國際線的人滾搭，所以整體來講它是一個安全的航線
+        * 那這裡面，我們為了以防萬一，最主要是，其實比較多的也是說互相保持一個安全，所以相關 PCR 檢驗在出發前，那回來時候就另予觀察 5 天的一個加強版的自主管理，那再加上回來的一個深喉唾液，加上加強自主健康管理完畢的 PCR，其實應該算是很完整
+        * 然後第二個，我才知道，這剛好問起 這沒有所謂的 3+11 的破口，3+11 這樣的政策裡面，並沒有影響到社區
+        * 那當然有一些機組員跟家人還有諾富特裡面的一個員工，所以不算他是在裡面一個事件，算是一個群聚的事件並不算是一個社會的破口，要再澄清一下
+    * (8/12-[141647](https://www.youtube.com/watch?v=FvwNvsexu6g&t=19m28s)/[141710](https://www.youtube.com/watch?v=FvwNvsexu6g&t=19m51s)) 自由行部分有沒有給予一些比較明確的規定，也可以讓可能未來要自由行的旅客，可以知道自己應該要依循的一些規定？ [未報]
+        * 那相關這些細節，那現在在做最後的一個敲定中
+    * (8/12-[141752](https://www.youtube.com/watch?v=FvwNvsexu6g&t=20m23s)/[141845](https://www.youtube.com/watch?v=FvwNvsexu6g&t=21m27s)) 目前的邊境管制比較嚴格，有些外籍的專業人士都是因為外館停發簽證不能入境，所以造成有一些國內的高科技公司缺人想請問這個部分會考慮重新開放嗎？ [未報]
+        * 高科技對台灣經濟或各方面有關的人才，現在都可以用專案的型態，有所謂的有必要性、即時性跟不可取代性，這都會允許
+        * 那這裡面現在比較多的，是因為有一些專業的人才來台灣，公司長期有這樣需要的，他時間是拉得比較長，那他的眷屬，現在是有這些的要求。那我們也要求相關單位審慎去評估，如果確實是非常久而且是有這個必要性的，那也可以來考慮
+    * (8/12-[141929](https://www.youtube.com/watch?v=FvwNvsexu6g&t=22m10s)/[142026](https://www.youtube.com/watch?v=FvwNvsexu6g&t=23m7s)) 指揮中心這邊有沒有收到教育部要讓學位生跟華語生二類，大概是1.3 萬人優先入境的公文？ 那是不是有規劃好入境之後的檢疫流程，因為有權益小組是反映說，如果要審核一個月的話，接著還要辦理簽證，訂防疫旅館等等，恐怕會連期中考都趕不上 [未報]
+        * 教育部的文好像中午剛剛到，那只要教育部如果規劃好，我們在這邊是很快的
 * [疫苗資訊](https://hackmd.io/Rl4fM4FpQwqUgBPVhV5D7A)
-    * [(8/10-141226/141257)](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=15m6s) 可否多透露一些爭取疫苗的艱難與努力，讓國人可以了解其中辛苦？ [台灣醒報]
-        * 疫苗供應的短缺，大概是全世界的情況，尤其在這一波因為 Delta 的疫情再起，相關施打率比較高的國家都準備打第三劑，都有這樣子的計算，所以就會進入到這樣互相採購的壓力，或者他們本來多購買的可以釋出的，這段時間都會中斷，所以疫苗的排程上，大家都遇到困難
-    * [(8/10-141246/141332)](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=15m26s) 民間購買 BNT 目前的進度？ 是否有新的消息？ [台灣醒報]
-        * 相關單位都一起密切合作，積極爭取
-    * [(8/10-141828//141844)](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=21m8s) 在醫學論文的平台上，有公布兩份研究報告，內容顯示對抗 Delta 變種病毒莫德納的保護力是優於 BNT，那怎麼看這個報告呢？ 會不會因此決定多採購莫德納？ [台視]
-        * 您提到的是美國明尼蘇達州的梅約診所，這算是美國很知名的一個醫學機構
-        * 最近針對年初(Alpha)與七月份(Delta)兩波不同的流行做了兩種疫苗保護力效果的比較
-            * 莫德納： 86%(Alpha) vs 76%(Delta)
-            * BNT : 76%(Alpha) vs 42%(Delta)
-        * 團隊對結果的解釋是說，莫產生的抗體力價就高，所以對 Delta 侵襲時有比較足夠的保護效果，不過以 76% 與 42% 來講，對有症狀感染都還是有一定的保護效果，所以**並沒有**因為這樣就建議大家都去打莫德納不要打 BNT。這個研究是第一次看到莫應付 Delta 優於 BNT，會再看有沒有其他國家相關研究來做一些佐證
-        * 還是鼓勵大家都去接種疫苗，不管哪一種疫苗，對於 Alpha 跟 Delta 都是會有一定的保護效果
-    * (8/10-[142118](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=23m59s)/[142206](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=24m47s)) 高端: 8 批補件狀況？ [未報]
-        * 那都是專業在持續進行，該怎樣補，該怎麼審，食藥署會做專業的安排
-    * (8/10-[142126](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=24m6s)/[142137](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=24m18s)) 高端: 已通過批次效期？ [未報]
-        * 封緘檢驗以後，我們開始要施打時跟告訴大家每一批的效期 / 以目前施打效率，效期部分不太擔憂
-    * (8/10-[142602](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=28m42s)/[142640](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=29m20s)) 高端年底前提前交貨，但國內疫苗很可能九月就不夠，是不是可能還是沒辦法銜接上？ [未報]
-        * 年底交貨並不是提前交貨，是按照合約來交貨，當然希望交貨等等都能夠迅速，但還是面臨兩個關卡：製造流程是否跟得上、封緘檢驗是否能夠合格，所有都要經過檢驗才能夠上來，所以這其中是有變數的
-    * (8/10-[142624](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=29m4s)/[142724](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=30m05s)) 疫苗生產與倉儲物流人員為衛生單位第一線防疫？ [未報]
-        * 第二類裡有一個疫苗生產及疫苗倉儲及物流人員，這是由 CDC 就疫苗生產、冷鏈或物流需要等等的，我們認為是在整體生產貨物流有其必要性的，請他們來造冊的
-            * 疫苗生產 => 有 4 家廠商
-            * 倉儲物流 => 有 3 家廠商
-            * 總共接種人數 = 2,614 人
-        * 這裡面可能大家很想要問的就是，這也是不太好啦，就是總是就是說，高端跟聯亞總共打了 4 個人，他們是疫苗生產廠商，不過兩家公司都非常堅決要打自己的疫苗，所以雖然那時請他們造冊，但總共才打了 4 個人
-    * (8/10-[143334](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=36m15s)/[143456](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=37m36s)) 莫德納不良反應個案(突發性的聽力損失)？ 國外是否有類似案例？ [未報]
-    * (8/10-[143900](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=41m41s)/[143922](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=42m3s)) 新進老師不在先前造冊中，如果開學前無法接種，需要延後任教嗎？ [TVBS]
-        * 對，如果學校有這樣的要求，我想這是教育單位或學校的要求
-        * 但我們只能做到原來有列冊的就讓他打，每一個行業都有它的重要性，那學校老師我們希望它含蓋率能達到一定程度，至少在學校群聚的可能性會降到最低
-        * 但是並沒有要求要百分之百，這是因為有人要打有人不打，有人要選疫苗，這都不是我們控制之內的，但控制達到一定的百分比
-    * (8/10-[144101](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=43m41s)/[144202](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=44m42s)) 第二類人數增加？ [未報]
-        * 中央政府造冊人員 = 1,712
-        * 第一線警察人員 = 55,000 
-        * 從事隔離對象相關服務工作 = 26,000
-        * 地方第一線防疫人員 = 33,000
-        * 維持防疫體系運作地方政府重要官員 = 27,000
-        * 以上類別超過萬人，其他都是 1,2 千到數百人
+    * (8/12-[140859](https://www.youtube.com/watch?v=FvwNvsexu6g&t=11m40s)/[140914](https://www.youtube.com/watch?v=FvwNvsexu6g&t=11m55s)) 美國聯邦參議員在 10 號接受華府智庫訪問，透露說美國將贈送台灣400萬劑疫苗，後來有說這是口誤，那請問指揮中心有這方面的訊息嗎？ [未報]
+        * 從外交部這邊來的一個正確的訊息，是目前沒有這樣的一個計畫，不過相關的人，他心中有這樣的一個想法，他來想促成，可是目前是沒有這樣的計畫 不過我們非常謝謝
+    * (8/12-[141402](https://www.youtube.com/watch?v=FvwNvsexu6g&t=16m43s)/[141434](https://www.youtube.com/watch?v=FvwNvsexu6g&t=17m15s)) 想問一下就是說接種疫苗後死亡，如果判定跟疫苗有相關性的話可以獲得 50 萬到 600 萬的補助，那目前有沒有人已經有領到的部分 ？ [三立]
+        * 目前就是有約 400 多萬的送到 VICP 這邊在審理，不過都還在審理當中，並還沒有 1 件有結案
+        * 如果有送解剖的話，那都在審理完畢的時候，會針對這一個補償來做一個給付
+    * (8/12-[141416](https://www.youtube.com/watch?v=FvwNvsexu6g&t=16m57s)/[141500](https://www.youtube.com/watch?v=FvwNvsexu6g&t=17m41s)) [三立]
+        * 所有的疫苗不管從COVAX、AZ到莫德納，全部在供貨上面，大概都是一個時程上的不穩定，並沒有哪一個廠牌特別的不穩定
+        * 那當然 AZ 到現在已經供貨了，到今天要來的總共是 241 萬劑，那也順便講一下，這個效期是到 12/31
+    * (8/12-[142041](https://www.youtube.com/watch?v=FvwNvsexu6g&t=23m22s)/[142134](https://www.youtube.com/watch?v=FvwNvsexu6g&t=24m15s)) 好像目前台灣民眾不太信任國產疫苗高端，然後所以導致登記施打的人數好像比較偏低，那想請問指揮官覺得真正的原因可能是什麼？ [台灣醒報]
+        * 疫苗是大家自由的選擇，那前一波也打過一波，現在也打了大概將近 900 萬的第一劑次，所以在後面的那當然選擇(的人)就相對的少
+        * 然後第二個，就是有100多萬(106萬)，其實也不算少
+        * 但是我還是講，就是尊重大家的選擇，因為這幾種疫苗它的一個平台都不太一樣，有mRNA、那有次單位、那也有腺病毒，各有不同，那每一個人現在國民的資訊都非常的充足，透過自己的資訊，那覺得對自己最好的一個選擇，我們只是鼓勵大家都要打
+    * (8/12-[142415](https://www.youtube.com/watch?v=FvwNvsexu6g&t=26m56s)/[142427](https://www.youtube.com/watch?v=FvwNvsexu6g&t=27m8s)) 日本有人打新冠疫苗三週內頭髮掉光，另外還有人頸部皮下出血，還有半身麻痺，請問國內通報不良反應是不是有類似的情況？ [未報]
+        * 半身麻痺這可能是有，那有關掉頭髮的部分，我們可能再查一下
+
+
+#### 2021.8.11 記者會
+
+* 影片連結 [1](https://www.youtube.com/watch?v=fyNhxRYG4Xw)
+* 疫情 [(8/11-140346)](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=6m32s) 
+	* [2021.8.11 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/SjX7QJUzmOmhDTJFl-Nouw?typeid=9) ![](https://i.imgur.com/yDxrAJU.jpg)
+	* [![](https://i.imgur.com/KTRkX5G.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1954052501427825) 
+	* [居隔(5/12) 關聯不明(3)](https://hackmd.io/y8DtZuWaSLKJKMR_eiTtPA?both) TBD
+	* [(8/11-140500)](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=7m46s) 新北今天有 6 例，主要是有社區群聚案例的案例，新北市政府現在也積極做相關疫調跟後續處理
+	* [(8/11-141754/141820)](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=21m6s) +3萬(32,004) / 37.18% / 39.48% 
+	    * 應該是這一批的最後 1 天，大概就延續前段時間還沒有打完的
+    * (8/11-[141609](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=18m55s)/[141700](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=19m46s)) 疫苗通報事件及死亡？ [華視]
+* 二級相關 
+    * (8/11-[141044](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=13m30s)/[141157](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=14m43s)) 桌遊業者希望能適度開放，是否有可能呢？ [未報] 
+        * 可以販賣相關的桌遊產品，但是還沒有開放到裡面，就是可以進行桌遊，我想一步一步、一步一步
+    * (8/11-[141327](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=16m13s)/[141511](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=17m57s)) 什麼時候會考慮開放安養中心探訪，或是能不能例如說開放 1.5 公尺或是隔著玻璃會面？ [中視]
+        * 因為在前一段時間，還是有幾個群聚的情況，那我們要再觀察一下
+* [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
+    * (8/11-[142037](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=23m24s)/[142055](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=23m41s)) 國內已經有累積 50 例的 delta 案例，想進一步請教這 50 例的個案有多少，目前還在醫院隔離治療，他們的病況如何？ [三立]
+        * 目前 50 例佔整個我們國內的確診病例還是少數，大部分都還是境外移入的病例
+        * 他們的隔離時間我們看起來並沒有比較長，那至於說還有多少人在隔離，這沒有特別分開來統計，如果大家有興趣的話 我們再看是不是能夠算得出來
+* [各類問題](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HyQwwNzhu)
+    * (8/11-[140623](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=9m9s), [141221](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=15m7s), [141520](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=18m6s)/[141611](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=18m57s), [142140](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=24m26s)) 帛琉旅遊泡泡 [未報/華視/未報] 
+    * (8/11-[140828](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=11m14s)/[140917](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=12m3s)) 基層診所的接種的業務費跟處置費，目前發放情況？ [東森]
+        * 3/22 ~ 6/30 的費用 => 委託健保署來發放 
+            * 8/9 = 行文給健保署
+            * 8/12 = 我們會把款項撥付健保署
+            * 8/16 = 健保署核付各醫院
+        * 這段時間(3~6月)的作業比較慢，那以後對於處置費及人次的獎勵費用，就會採用每月，隨著每月去結算，每一個月去發
+        * 那至於 7 月的處置費及6、7月的論接種人次的獎勵費用預計在8月底前撥付，希望把這個行程能夠趕上來
+        * 績效表現優良的獎勵，那採案計來結算 6~9 月為期，10月來撥付
+    * (8/11-[141311](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=15m57s)/[141406](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=16m52s)) 中國疫情與是否考慮加強其入境者的檢疫措施？ [中視]
+        * 中國現在受到 delta，可是他們報告出來的案例就是 100 多例，前幾天都是 2 位數，以 14 億人口計算，那算是非常零星的個案
+        * 那不過從他的一些管制措施，有做大規模的篩檢，那有一些道路的管制等等的，顯見的可能疫情是比這個報出來的數目應該是要高一點，我們還是持續掌握，但不認為現在他有一個大爆發的情況
+        * 所以整體在邊境上面還是維持一樣，從邊境進來的，所有的檢疫的強度還是維持14天，然後前後都要做 PCR 的篩檢，中間做一次快篩
+    * (8/11-[142153](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=24m39s)/[142237](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=25m23s)) 境外生的計畫還沒有辦法定案(譬如說 疫苗/比照入境檢疫/類似去年檢疫旅社/只能線上遠端教學)，希望說指揮中心可以有個方向，讓境外生不要那麼無助 [未報]
+        * 原則 = 這個是教育部在決定的，當然在防疫的規定，是我們跟他們要討論的，我想先把這個原則弄清楚。現在教育部要統計相對的這些境外生有多少
+        * 盤點與協助 = 進來的時候，當然要看防疫的量能，因為都要做居家檢疫 14 天，所以要先盤點人數，是學校的宿舍、防疫旅館，或者需要集中檢疫所來做協助？ 這個數目要先把他盤點出來
+        * 不會對於打疫苗的人 就說不檢疫了 = 大家也看到近來確實有很多，在國外打了二劑的疫苗，不管打什麼廠牌的都有這個完整保護力，仍然是染疫的情況，那這我們是不能鬆懈
+    * (8/11-[142611](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=28m57s)/[142644](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=29m30s)) 到大醫院洗牙可是被要求要自費出示 PCR 的檢測陰性證明？ [壹電視]
+        * 對於門診，我們並沒有要求說一定要做 PCR 的檢驗，但是每一個醫院都有他對於病人 還有整體感控的要求
+        * 那並不是每一家醫院都要求這樣，洗牙也不是一個特別複雜的技術，只有單一的醫院能夠做，所以能夠提供的地方仍然是多的。所以對於這個醫院他自己做的這個管理，我們目前還是尊重
+* [疫苗資訊](https://hackmd.io/Rl4fM4FpQwqUgBPVhV5D7A)
+    * (8/11-[141756](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=20m42s)/[141902](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=21m48s)) 國外有研究如果達到 44 週的話，會明顯高於其他的週數，是否對此作調整？ [未報]
+        * 有關於台大公衛所做的說明，應該不是說他們做的研究，應該是引用過去
+        * AZ在臨床試驗的時候的一些研究的資料，有說有超過 12 週再接種第二劑的，基本上他們的免疫反應與預防效果還是不錯的，那所以認為超過 12 週再施打第二劑也不是問題
+        * 那不過因為過去的這些資料不是真的那麼完整的，雖然有這樣的一個資料的呈現或是報告，那可是目前大概我們認為延長到 12 週是沒有什麼問題的，效果確實也都是還是很好，那當然確實我們心裡也知道，如果必要的時候，超過 12 週再施打的人其實也不是會有什麼問題狀況，那他的第二劑補打上來的這個免疫反應還是可以很好，還是可以預防的效果
+        * 所以我們 ACIP 的委員建議的，當然就是 8~12 週施打是沒有問題，那指揮中心(目前規定)是說 10~12 週去打，那可是萬一有些狀況 或者有些我們的打完第一劑以後，因為某些情形而超過12週再去施打，也基本在我們是建議說這樣子沒有關係沒有問題的
+        * 曾經提問紀錄：(6/29-145755~150053) 
+    * (8/11-[142717](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=30m3s)/[142826](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=31m12s)) 昨天有提到說，可能接下來在8月底時，會推出類似電子黃卡這樣的概念，電子黃卡未來運用的彈性有多大，可以談一下嗎？ [未報]
+        * 是一個疫苗證明，只是證明說，有打過這疫苗，打過什麼
+        * 至於用來做限制人身，我們是不贊成，但要拿來當作一個鼓勵的措施，那我想可以討論
+        * 下禮拜一也會召開一次有關於這個疫苗證明，它到底可以做怎麼樣的一個使用，比較符合人權跟防疫等等的一個需要
+        * 大家也看到國外各有不同的一些做法，現在也有一些經驗可以參考，所以我們會請一些不管從防疫的角度、醫療的角度、人權、法律，這些相關的專家，大家一起來討論，那是不是大家能夠形成一些共識讓這個使用上面會更合乎需要
+    * (8/11-[142946](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=32m32s)/[143027](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=33m13s)) 國外接種證明的整合？ [未報]
+        * 現在開始有調查，就是說請回來的人提供疫苗接種資料(什麼時候有打過什麼樣的疫苗)，可以做為我們的一個參考之用
+        * 那現在大家在講這個所謂的疫苗護照/疫苗證明，是在講承認不承認的問題，就是說能不能足以能夠當作證明
+        * 那如果以這個角度來看你自填的，那恐怕就沒有辦法變成是一個證明，只是一個參考
+        * 那未來各國都會有相關的證明，所以現在開始要來進行，我們自己的出來之後，就會跟各國來談說雙邊怎麼樣來承認，那對於什麼樣的一個規格那這是下一步的事情
+    * (8/11-[140725](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=10m11s)/[140750](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=10m36s)) 想請教一下韓國最近有派專人前往美國追莫德納疫苗的出貨，那不曉得指揮官覺得這樣是不是有用？ 我國是否也可以採取類似的主動作法，或者是現在是否有與外交部或者是美國代表做聯絡請求相關的協助？ [台灣醒報]
+        * 我想每個國家作法不同，那當然他們派人去直接來做面談，可以更瞭解雙方的一個意圖跟企圖跟想法
+        * 那我們經常透過我們的駐美的代表處，也會跟 AIT、跟總公司做相關的一些視訊的聯繫，然後透過多重的外交管道，去瞭解整個疫苗供應的情況
+        * (8/11-[141250](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=15m36s)/[141357](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=16m43s)) 有沒有考慮說也親自到美國去催貨莫德納嗎？ [中視] 當然有必要，任何可能可以讓這個貨能夠早點到的任何作為，我們都願意做
+    * (8/11-[141548](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=18m34s)/[141641](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=12m3s)) 某作家的岳母打了AZ 疫苗後死亡(7/30)，那今年 3 月健康檢查，其實只有膽固醇超標，想問目前是不是有相關的解剖後的報告來說這跟疫苗到底有沒有關聯？ 還有施打後最新通報數字？ [華視]
+        * 某作家是公眾人物，他媽媽不是，我想個人的這種個案我們還是不要在公眾場合來談
+        * [(8/11-143139/143325)](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=36m11s) 那想問一下說，膽固醇過高，是不是也有可能會導致死亡或是一些不良反應，可能會比較偏高的一個情況？ [未報] 高膽固醇並不是 COVID-19 疫苗施打的一個禁忌的對象，所以並沒有說因為高膽固醇打了 COVID-19 的疫苗就會有比較厲害的不良反應，沒有這樣的一個報告
+        * [(8/12-142245/142303)](https://www.youtube.com/watch?v=FvwNvsexu6g&t=25m44s) [中視] 當然各個有這樣的一個評論，那不過就會解剖，那以解剖的情況為準
 * [目前接種與預計開放情況](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H180Wamsd)
-    * [(8/10-141400/141438)](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=16m44s) 莫德納第二劑間隔時間是否考慮再延長？ [民視]
-        * 要不要延長還是根據進貨情形
-        * 但目前對莫德納是兩劑都會準備著，不會說第二劑先把它用掉，除非將來有可以混打的情況，才會有這樣的打算
-    * (8/10-[143844](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=41m25s)/[144007](https://www.youtube.com/watch?v=oW1HZDY7Dpo&t=42m47s)) 健保快易通已經被註記打過疫苗了，但其實沒有接種過？ 會不會影響他後續的接種？ [TVBS]
-        * 健保快易通會顯示是在哪個醫療院所接種的，所以請他到上面記載的院所請院方更正，可能是另一位民眾接種紀錄誤植導致
+	* [(8/11-140522)](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=8m8s)  ![](https://i.imgur.com/hTn9mXD.jpg)
+    * (8/11-[141023](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=13m9s)/[141056](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=1342m3s)) 預計可施打劑量與開放年齡？ [未報]
+        * 數量 = 目前完成檢驗封緘還沒到(50~60萬)，這 2 天陸陸續續會有一些批次會到，那至少會有 60 萬劑，希望能有 80 幾萬劑了，不過還是要看檢驗結果，就看這幾天檢驗的情況怎麼樣
+        * 年齡 = 因為還沒有預約，意願登記也還沒有完成，所以就沒有辦法很清楚地跟大家來報告。可以讓大家參考的是，目前有選高端的大概 106 萬人
+    * (8/11-[143119](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=34m5s)/[143242](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=35m28s)) 這次高端施打對象的部分會以這個優先對象去開，還是會以年齡呢？ [未報]
+        * 會從一類這樣往下到年齡，這樣子的開放
+    * (8/11-[141744](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=20m30s)/[141847](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=21m33s)) 第一線醫護混打什麼時候開始？ [未報]
+        * 預計禮拜五會先把那個已經退冰的幾千劑先配下去，那再下禮拜二的時候才會把剩下的直接量配出去
+    * (8/11-[142332](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=20m42s)/[142355](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=26m41s)) 各地方政府殘劑開放不一樣會不會考慮比較一致性的做法？ [大紀元]
+        * 殘劑事實上就是很少，那我們大概對於這個大的規格裡面有做要求，至於在細節(不做特別限制)，可能地方在運作上面會更順暢
+        * 殘劑只要是符合現在資格的人，他可以打就可以去打，不見得一定說要排序什麼的，因為那就是很少，就怕最後就是殘，那如果沒有彈性，反而阻礙到其他要打的人 那剩下那些殘劑少的，如果不讓他靈活運用那浪費的可能性又更高了
+        * 當然不能用假借殘劑的名義 行不當的行為，那當然是不行，但那真的殘劑的話，那個彈性是可以放寬一點
+    * (8/11-[142448](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=27m35s)/[142522](https://www.youtube.com/watch?v=fyNhxRYG4Xw&t=28m8s)) 目前 AZ 跟莫德納的庫存大概還有多少？ COVAX 這個管道還有沒有機會在最近會有疫苗，或者是近期跟他們聯絡情況？ [未報]
+        * 現在疫苗大概是這樣，大家一直想要問庫存，其實我們幾乎都是採用這零庫存的方式在處理疫苗。意思是說，進來以後那就趕快封緘檢驗 那跟得上時程，馬上去打，所以相對那個庫存量，應該說是一個調節量，那不算是庫存，庫存裡面有100萬劑，沒有，我們從來沒有那麼多過，但是有一個調節運用量，萬一有什麼地方短缺的時候，可以即時地把它補上來
+        * 會不會有疫苗進來？ 都會有，只是那個量跟那個時間，沒有辦法那麼精確地掌握而已
 * :::spoiler 相關議題： 疫情發展 / 醫療應變 / 防疫量能 / 病患照護
+    * [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
     * [醫療應變](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HkveZdrn_)
     * [防疫量能](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HJ0HoO7i_)
     * [病患照護](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/SyuqALDn_)
@@ -1139,6 +1198,8 @@
 * Week15
     * 2021.8.6 => 二級延長 ~8/23
     * 2021.8.8 => 第 5 批 Moderna 9.96 萬抵台
+* Week16
+    * 2021.8.12 => 第 5 批 AstraZeneca 52.4 萬抵台
 
 :::success
 
@@ -1163,6 +1224,7 @@
 [![](https://i.imgur.com/3zMOZ54.jpg)](https://www.facebook.com/frankcthsiehfans/posts/10158209910441430)
 
 :::
+
 
 
 
