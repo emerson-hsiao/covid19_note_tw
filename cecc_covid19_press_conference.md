@@ -4,7 +4,7 @@
 ## 疫情警戒標準 全國二級強化 心頭掠予定 (~8/23)
 
 
-(更新至 8/17)
+(更新至 8/18)
 
 ###  
 
@@ -85,63 +85,29 @@
 * [2021.5.11~ 新聞稿列表](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H1GfZNKcd) 
 * [Memories](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/SJ6mHuq9d)
 
-#### 2021.8.17 記者會
+#### 2021.8.18 記者會
 
-* 影片連結 [1](https://www.youtube.com/watch?v=T1ZXe8a5A2I)
-* 疫情 [(8/17-140539)](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=8m36s) 
-	* [2021.8.17 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/oC4Rci1Mx3UtM8nKYumVpA?typeid=9) ![](https://i.imgur.com/6fwUwcN.jpg)
-	* [![](https://i.imgur.com/GNRnK2E.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1958627810970294) 
-	* [居隔(2/4) 關聯不明(2)](https://hackmd.io/y8DtZuWaSLKJKMR_eiTtPA?view) 
-	* [(8/17-140829)](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=11m26s) +4.9萬 / 39.21% / 42.13% 
-	* 境外移入 ![](https://i.imgur.com/ctKDY8C.png)
-	* [(8/17-143154)](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=34m50s) 疫苗不良事件與死亡通報
+* 影片連結 [1](https://www.youtube.com/watch?v=KZMtoGqGDXM)
+* 疫情 [(8/17-140359)](https://www.youtube.com/watch?v=KZMtoGqGDXM&t=7m40s) 
+	* [2021.8.18 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/MCSodz6QzYMEGxgwoZMdYg?typeid=9) ![](https://i.imgur.com/Ko2oDlU.png)
+	* [![](https://i.imgur.com/LgYDdBK.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1959403570892718) 
+	* [居隔(0/6) 關聯不明(4)](https://hackmd.io/y8DtZuWaSLKJKMR_eiTtPA?view)
+	* [(8/18-141024)](https://www.youtube.com/watch?v=KZMtoGqGDXM&t=14m5s) +4.9萬(49,439) / 39.4% / 42.4% 
+	* 境外移入 ![](https://i.imgur.com/WxZ7MFA.png)
 * [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
-    * (8/17-[141143](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=14m40s)/[141225](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=15m22s), 141655) 台電兩員工確診(8/16, 8/11)，目前有確認感染源嗎？ 後續相關防疫措施問題？ [未報]
-        * 這恐怕要問市政府怎麼處理，因為牽涉到相關疫調，每一個情況根據接觸時間/距離密集度都會有所不同， 這都需要在現場根據事實判定，那我們也可以去了解一下
-        * 事實上現在大概都會做得比較嚴格一點，聽起來這個情況算是比較鬆的一個方式，相信地方處理這個一定有他的理由在
-        * ::: spoiler  個案說明 [(8/17-141740)](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=20m36s)
-            * 台電這個個案不是我們今天發佈的個案，因為才剛確診還未列入案號
-            * 8/11 = 有同事確診，PCR 檢驗(陰性)，匡列為自主健康管理
-            * 8/14 = 晚上開始出現症狀 
-            * 8/16 = 用家戶快篩陽性，至醫院二採
-            * 8/17 = 確診 入院治療中
-            * 開始進行全面清消，目前居隔人數暫列 30 人
+	* 台北市職場群聚(羅斯福路公營單位) 
+	    * [(8/18-140527)](https://www.youtube.com/watch?v=KZMtoGqGDXM&t=9m8s) 陸續驗出 3 例，在同一層樓 / 分流上班
+	    * (8/18-[141053](https://www.youtube.com/watch?v=KZMtoGqGDXM&t=14m34s)/[141137](https://www.youtube.com/watch?v=KZMtoGqGDXM&t=15m18s)) 疫調狀況？ 算群聚嗎？ 七月底與 8/11, 8/16 個匡列了幾人？ 現在才擴大匡列會不會太晚？ [華視]
+	        * 在前端 3 個時間裡有 3 個確診，基本上把他列為是一個群聚
+	        * 在第一個、第二個個案的時候，就有匡列一部分，那有一些列為自主健康管理
+	        * 那這 2 天驗出來，大家所關心的 1 位孕婦，是在前一波被列為自主管理者 
+	        * [職場群聚事件疫情處置(2+1)](https://health.gov.taipei/News_Content.aspx?n=BB5A41BA1E6CA260&sms=72544237BBE4C5F6&s=3F58ED357FF1F471) [![](https://i.imgur.com/kAbFvmg.jpg)](https://www.gov.taipei/covid19/News_Content.aspx?n=EF0C2781DEC9D6E7&sms=78D644F2755ACCAA&s=43009484A88FBCB5)
+	        * 跟公司建議 (1) 同層暫停上班 全面清消 (2) 同層全部採檢 視結果規劃後續處理 (3) 全體企業快篩 ==(141333) 27min TBD==
 * [各類問題](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HyQwwNzhu)
-    * (8/17-[141213](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=15m10s)/[141306](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=16m3s)) 澎湖堅持移除隔板與社交距離限制？ [未報]
-        * 餐飲是一個指引的部分，但社交距離各種這些要求已經幾近是規範，我們跟澎湖去了解一下
-        * 在這個時候，還在觀察第二級警戒的時候能夠做一個比較比較清楚的區隔，用餐會比較安心
-    * (8/17-[143338](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=36m34s)/[143351](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=36m47s)) 是否會擔心未來五倍卷在中秋節上路可能造成更多民眾出門？ [未報]
-        * 五倍卷要開始發行的時間現在還沒有定，只是約略有個計畫
-        * 因為它目標是為了振興，振興一定是在疫情比較穩定的時候才開始，所以在實施時程我們會跟行政院隨時報告疫情情況以做振興卷發放的參考
 * [疫苗資訊](https://hackmd.io/Rl4fM4FpQwqUgBPVhV5D7A)
-    * [(8/17-140722)](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=10m18s) [新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/u8aPPCQHzg2HWET30BEV-g?typeid=9)
-        * 有一些因為信仰的關係，不能使用含有豬相關的製品。台灣現在所用的或即將要進來的，這些都沒有含有豬細胞，所以我們清真的朋友，這些都屬於可以用的，請大家放心，而且這幾個 AZ, Moderna 及 BNT 都在幾個有清真相關的國家中大量使用
-        * ![](https://i.imgur.com/i80aPq3.jpg)
-    * (8/17-[14053](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=12m49s)/[141042](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=13m38s)) 高端：第一二期換了實驗室中和抗體效價差異大(52/662)，為什麼同一隻疫苗換實驗室後校價會差這麼多？ [中時]
-        * 研究的部分這次都在中研院同樣實驗室所做的
-        * 其實在做這上面，大家都很清楚，為什麼要用相同的實驗室、相同的方法才能夠做比較？ (因為)不同實驗室、不同方法其實沒有辦法做比較的
-    * (8/17-[141644](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=19m41s)/[141707](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=20m3s)) 聯亞：改以 delta 測試會評估這樣的可行性嗎？ [未報]
-        * 沒有通過是根據 EUA 技術性審查基準來辦理
-        * 如果他們認為還有相關理由或認為疫苗某一個程度仍然對社會防疫是有效果的，提出申述理由與實驗計畫，交由 FDA 做審查
-    * (8/17-[141945](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=22m42s)/[142005](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=23m2s)) 平台意願登記裡還有 400 多萬人非莫德納不打，現在莫剩餘劑量不到 50~60 萬，是否呼籲改選其他廠牌或關閉選項？ [未報]
-        * 第一個大概，有單選過莫德納的有 400 多萬人，那現在沒有那麼多人了，因為這期間也打掉一部分的人
-        * 第二個是說，其實多一點選擇，及早能夠打到，還是比較好的方式
-    * (8/17-[142119](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=24m16s)/[142255](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=25m52s)) 數位接種證明：專家會議討論後是否有近一步的方向？ [未報]
-        * 昨天由法制組招開專家會議，做整體的討論，讓大家有點印象，還需要經過相當多社會的共識才有辦法形成
-        * 名稱適用性或表達更完整 => 原名稱(數位護照)可能要重新思考
-        * 現在不宜推動相關使用通行的事情，須等覆蓋率較高時再考量
-        * (8/17-[142546](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=28m42s)/[142600](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=28m57s)) 覆蓋率達多少時？ [未報] 還未決議要多高
-    * (8/17-[142408](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=27m5s)/[142514](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=28m12s)) 基層醫護可混打時間？ [中時]
-        * 現在陸續對第一線的先發，到開業這邊(1-3 的部分)，今天才請他們趕快造冊清楚上來。應該快了
-    * (8/17-[142446](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=27m42s)) EUA 審查會議記錄
-        * 審查的會議記錄都會公開，但後續技術性資料就不會公開聯亞的
-    * (8/17-[143558](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=38m55s)/[143631](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=39m28s)) 高端：免疫橋接三期，過去免疫橋接有先例嗎？ 會監督嗎？ 未來申請藥證是可接受的嗎？ [未報]
-        * 國外做三期，那是國外准不准它的問題
-        * 如果要回來申請藥證，以那樣的數據風險是很大，不過到時候要看看科學界對這樣的認同，但以現在我們 FDA 的標準用那樣要來申請恐怕是很困難
-    * (8/17-[143437](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=37m34s)/[143453](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=37m49s)) 台灣明年疫苗規劃是 2000 萬劑默德納，請問會再加購嗎？ [中視]
-        * 不排除其他再加購的可能性，審慎的根據相關科學資料，還有國外施打第三劑情況
+    * [(8/18-140725)](https://www.youtube.com/watch?v=KZMtoGqGDXM&t=11m6s) 請外交部協助瞭解的  ![](https://i.imgur.com/QHi6qKo.jpg)
 * [目前接種與預計開放情況](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H180Wamsd)
-	* [(8/17-140859)](https://www.youtube.com/watch?v=T1ZXe8a5A2I&t=11m55s) 至今天中午第六期預約登記人數為 39 萬人 
+    * [(8/18-140622)](https://www.youtube.com/watch?v=KZMtoGqGDXM&t=10m22s) ![](https://i.imgur.com/SUAuP6T.png)
 * :::spoiler 相關議題： 疫情發展 / 醫療應變 / 防疫量能 / 病患照護
     * [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
     * [醫療應變](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HkveZdrn_)
