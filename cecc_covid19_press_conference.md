@@ -4,7 +4,7 @@
 ## 疫情警戒標準 全國二級強化 心頭掠予定 (~9/6)
 
 
-(更新至 8/26)
+(更新至 8/28)
 
 ### 現行管制 二級強化延長 7/27 ~ 9/6
 
@@ -47,6 +47,7 @@
 * **(全國) 特定病房 探病管制措施** [(8/24-140615)](https://www.youtube.com/watch?v=VqpHJP03rMI&t=11m12s) ![](https://i.imgur.com/6u8CN8s.jpg)
 * **風險縣市(台北市、新北市) 住院及陪病公費定期篩檢措施** [(8/24-140746)](https://www.youtube.com/watch?v=VqpHJP03rMI&t=12m43s) ![](https://i.imgur.com/96SOGp5.jpg)
 * **入境旅客** [(8/24-140852)](https://www.youtube.com/watch?v=VqpHJP03rMI&t=13m48s) ![](https://i.imgur.com/HHGUvZw.jpg)
+* [(8/27-140534)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=10m20s) 雙北不再是中高風險區域 與先前開放縣市的要求跟標準是一樣的 ![](https://i.imgur.com/f5HR9Jf.jpg)
 
 #### 加強監測方案 [(8/23-140300)](https://www.youtube.com/watch?v=CLIKmO6KQmE&t=7m56s)
 * 疫情現在目前穩定，不過怎麼樣有更多的方式對疫情警訊能夠及早監測，有一些本來已經在做的，與開始要做的一些相關加強監測方案。隨時滾動式的檢討
@@ -114,7 +115,21 @@
 * :::spoiler 有民眾反映他需要經常往返台灣跟國外，那每次返台的檢疫費用，其實一年下來負擔也是不小，那是不是有可能考慮，有完整打完二劑疫苗的人，回台之後就讓他們可以在家裡一人一室居家檢疫？ [自由時報] (8/25-[142437](https://www.youtube.com/watch?v=2Wwum7YV4S4&t=28m58s)/[142523](https://www.youtube.com/watch?v=2Wwum7YV4S4&t=29m44s))
     * 當然我們都很希望能夠把檢疫的情況能夠放鬆
     * 不過，重點是台灣在自己的保護力夠不夠，像類似像這一類的開放，都會在我們的覆蓋率比較高的情況下，才會開始來考慮
-
+* :::spoiler 明天開始派飛長程航班的機組員，現在不管有沒有打疫苗，都需入住防疫旅館或是公司的防疫宿舍 5 天？ [東森] (8/27-[141853](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=23m39s)/[142027](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=25m12s))
+    * 現行 
+        * ![](https://i.imgur.com/hBVUGCU.jpg)
+        * ![](https://i.imgur.com/ZvL0RNn.jpg)
+    * 調整 
+        * 長程航班第一、二類(不具或未具完整疫苗保護力) = 考量國際風險的提高，改為不得在家居家檢疫，主要是為了避免萬一有傳染的家戶內群聚
+        * 估計每天大概 100 位機組人員受到影響
+    * 至於媒體報導說，可能打完二劑的機組人員都需要居家檢疫(原來為自主健康管理加強版)，目前指揮中心內部還在討論當中，還是會兼顧飛安，還有機組員的檢疫需求，再來做綜合的考量，目前還沒有拍板定案
+    * [機組員防疫QA (QA for Crew Epidemic Prevention Practices)](https://www.caa.gov.tw/Article.aspx?a=3046&lang=1)
+* :::spoiler 海泳浮淺未照原計畫(8/24)開放，觀光局擬定的防疫管理措施目前指揮中心還未核准，請問防疫計畫有哪裡違反防疫或還不周全呢？ 現在已經開始相關活動會不會有疑慮？ [TVBS] (8/28-[142240](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=27m25s)/[142316](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=28m1s))
+    * 並非剛才媒體所詢問的這樣，因為交通部研擬相關措施時，就把它所主管的相關，包括台鐵高鐵與旅行部分，都一併並在同一個案子裡面送審
+    * 指揮中心相關主事也已經會得差不多，應該是這兩天會儘速完成相關檢視
+* :::spoiler 是否是因為近期境外移入有個案是國籍航空機師，所以才更改空服員檢疫相關規定 ？ [未報] (8/28-[142410](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=28m56s)/[142425](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=29m10s))
+    * 昨天那個案子是某航空公司飛航回來時，入境採檢驗出陽性，他也打過兩次疫苗
+    * 這個案子會讓**未來**打過兩次疫苗的居檢規定趨嚴，但跟原來要趨嚴的規定無關(註：未滿兩劑或未接種不得在家居家檢疫)
 :::
 
 ### 記者會 / 全國防疫會議
@@ -129,76 +144,192 @@
 * [2021.5.11~ 新聞稿列表](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H1GfZNKcd) 
 * [Memories](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/SJ6mHuq9d)
  
-#### 2021.8.26 記者會
+ 
+#### 2021.8.28 記者會
 
-* 影片連結 [1](https://www.youtube.com/watch?v=tOaDUl40QqA)
-* 疫情 [(8/26-140416)](https://www.youtube.com/watch?v=tOaDUl40QqA&t=9m11s) 
-	* [2021.8.26 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/MCsgPQYHX-7Y1rwdp37gRg?typeid=9) ![](https://i.imgur.com/lnh5xAM.jpg)
-	* [![](https://i.imgur.com/NKbgfkH.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1965575060275569) 
-	* [居隔(2/2) 關聯不明(0)](https://hackmd.io/y8DtZuWaSLKJKMR_eiTtPA?view) 
-	* [(8/26-140548)](https://www.youtube.com/watch?v=tOaDUl40QqA&t=10m43s) +8萬(83,635) / 41.24% / 44.72% 
-    * ![](https://i.imgur.com/4tWiuAb.png)
+* 影片連結 [1](https://www.youtube.com/watch?v=tkXFxHcyIp8)
+* 疫情 [(8/28-140320)](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=8m6s) 
+	* ![](https://i.imgur.com/kbpj2zd.jpg)
+	* [2021.8.28 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/A8sZbjImqVaGG7Xktvmigg?typeid=9) ![](https://i.imgur.com/0IfpKS6.jpg)
+	* 特別報告，雖然今天確定病例是零，但早上新北有通報 1 例(明日個案)。死亡個案中已確定船長是個案，不過死因還未整個判定所以也沒有列進來(等通報更完整)
+	* [![](https://i.imgur.com/2JTlm8C.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1967161866783555)  
+	* [(8/28-140923)](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=14m8s) +18萬(182,996) / 人口涵蓋率 42.2% / 劑次人口比 45.93% 
+    * 境外 ![](https://i.imgur.com/kZrEX3g.png)
+* 二級警戒
+    * (8/28-[142240](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=27m25s)/[142316](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=28m1s)) 海泳浮淺未照原計畫(8/24)開放，觀光局擬定的防疫管理措施目前指揮中心還未核准，請問防疫計畫有哪裡違反防疫或還不周全呢？ 現在已經開始相關活動會不會有疑慮？ [TVBS]
+        * 並非剛才媒體所詢問的這樣，因為交通部研擬相關措施時，就把它所主管的相關，包括台鐵高鐵與旅行部分，都一併並在同一個案子裡面送審
+        * 指揮中心相關主事也已經會得差不多，應該是這兩天會儘速完成相關檢視
+    * (8/28-[142410](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=28m56s)/[142425](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=29m10s)) 是否是因為近期境外移入有個案是國籍航空機師，所以才更改空服員檢疫相關規定 ？ [未報]
+        * 昨天那個案子是某航空公司飛航回來時，入境採檢驗出陽性，他也打過兩次疫苗
+        * 這個案子會讓**未來**打過兩次疫苗的居檢規定趨嚴，但跟原來要趨嚴的規定無關(註：未滿兩劑或未接種不得在家居家檢疫)
 * [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
-    * (8/26-[142005](https://www.youtube.com/watch?v=tOaDUl40QqA&t=25m)/[142024](https://www.youtube.com/watch?v=tOaDUl40QqA&t=25m19s)) 目前隔離中個案與接觸者的狀況？ 接觸者人數？ [未報]
-        * 確診者：
-            * 據今天的統計各縣市回報總共還住院的人數是 264 人、加強型的防疫旅館是 20 人，所以總共是有 284 位病患目前還沒有符合解除隔離的條件
-        * 接觸者：
-            * 現在隔離的大部分是接觸者
-            * 至於總人數部分，需要再跟各縣市查詢。 專案才會特別統計接觸者人數
+    * (8/28-[141753](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=22m38s)/[141907](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=23m52s), [143157](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=36m42s)) 巴拿馬籍商船：基因定序與採檢結果？ 接觸者與社區接觸情況？ [大愛]
+        * 商船昨天已離開台北港往下一個港口去
+        * 匡列 15 位，其中 1 位居家隔離，其餘 自主健康管理
+        * 所有接觸過，在港務環境部分，無論是建築物或道路，港務公司都已完成清消
+* [各類問題](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HyQwwNzhu)
+    * (8/28-[141732](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=22m16s)/[141815](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=23m1s)) 中山大學關於氣溶膠的研究與隔板？ [大愛]
+        * 隔板是否增加感染風險？ 我們有稍微討論一下：這研究並沒有“隔板增加風險”的直接科學證據，只是有做這樣的討論
+        * 最主要的論述還是：==接觸受病毒污染的環境是 covid-19 病毒傳播的途徑之一，所以公共場所維持良好的通風、落實環境清潔消毒是預防 covid-19 的重要手段==
+    * (8/28-[142603](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=30m48s)/[142624](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=31m9s)) 高中以下 9/1 開學，有住宿生家長投訴，至今學校宿舍尚未開放入住，國教署說指揮中心還未定？ [中視]
+        * 這個是教育部要去安排的，我們要求進來一定要訂好防疫旅社或集中檢疫，這是我們對於檢疫的要求。那安排應該是主管單位、或個人、或學校去做相關的安排 
 * [疫苗資訊](https://hackmd.io/Rl4fM4FpQwqUgBPVhV5D7A)
-    * (8/26-[141020](https://www.youtube.com/watch?v=tOaDUl40QqA&t=15m15s)/[141045](https://www.youtube.com/watch?v=tOaDUl40QqA&t=15m40s)) BNT：剛剛有提到 BNT 的事情，因為其實各國都在爭取，是什麼原因我們可以直接爭取到呢？ [未報]
-        * 我想剛剛就講過，不管從我們的民間到中央，大家都非常努力，大家一條心那就爭取(到)了，我們非常感謝這些在努力的人
-    * (8/26-[141535](https://www.youtube.com/watch?v=tOaDUl40QqA&t=20m30s)/[141615](https://www.youtube.com/watch?v=tOaDUl40QqA&t=21m10s)) 高端：高端當初在受試的時候，排除了五類對象，包含免疫功能低下、不穩定的慢性病患或是懷孕女性的這些對象，有專家質疑說，那現在開放接種後，為什麼卻沒有排除這些對象？ 是不是應該讓民眾知道，到底哪些狀況不適合接種？ [未報]
-        * “有專家質疑” 我想是不同類的專家，如果是在做疫苗臨床實驗的專家，都大部分明白，做人體實驗必然有一些對象是被排除掉，它要將沒有辦法控制的風險降到最低，那做出來的實驗才能夠比較正確
-        * 所以所有臨床實驗都會有一些排除的對象，不會刻意到醫院找身體非常不好的，這些都會增加這疫苗的一個變數
-        * 這都是有一些國際的規則可以依循，等一般比較健康的人或是可接受身體狀況情況下，做完一定比例達到安全標準，那時候就可以開放給更多人來打
-        * 當然開放後還要經過後市場的歷練、持續觀察它的安全性跟有效性
-        * (8/26-[142424](https://www.youtube.com/watch?v=tOaDUl40QqA&t=29m19s)/[142500](https://www.youtube.com/watch?v=tOaDUl40QqA&t=29m55s)) 那之後有沒有考慮要在接種仿單上加註說，可能這 5 個對象接種前要多一些諮詢或是詢問？ [八大電視] 
-            * 其實大部分疫苗臨床試驗裡面 都會有一些排除的對象
-            * 需要跟醫師諮詢的對象可能又更廣
-    * (8/26-[142234](https://www.youtube.com/watch?v=tOaDUl40QqA&t=25m29s)/[142303](https://www.youtube.com/watch?v=tOaDUl40QqA&t=27m58s)) 高端開打過後有 4 例的死亡通報個案，那麼有醫師建議應該要暫緩打一週或者是成立專案小組來調查？ [未報]
-        * 這是一個時間時序的關係
-        * 因果關係要待專家的判定，我們會跟專家來討論這些相關的情形 
-        * 某醫師所提到的是說，如果這 4 案類型都非常相近，就比較有可能有這樣的懷疑，那如果不是那相對比較低
-    * (8/26-[142449](https://www.youtube.com/watch?v=tOaDUl40QqA&t=29m44s)/[142532](https://www.youtube.com/watch?v=tOaDUl40QqA&t=30m27s)) 彰化好像有提到說有個大學生在接種之後就全身癱軟，然後緊急送醫，請問一下有沒有掌握這樣的狀況？ [八大電視]
-        * 看起來是暈針，因為他在施打之前沒有吃早餐可能也睡眠不足
-        * 在暈針的部分事實上都可以避免的，這個部分可能再做一些衛教說明
+    * (8/28-[141638](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=21m23s)/[141652](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=21m37s)) 友邦貝里斯洽談購買高端？ 是否有其他友邦或友好國家也有透露意願購買？ [三立]
+        * 直接說哪個國家要來購買我現在手頭上沒有，只是知道，外交部一直跟我們再聯繫，說有些友邦想要來購買
+        * 那狀況還是一樣，如果在台灣大家打的量還有剩下，那當然會做考慮，但如果還有人要打，我們可能就不會出這個貨
+    * (8/28-[143317](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=38m3s)/[143340](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=38m25s)) 青少年接種疫苗是否有需要注意或建議不適合施打的情況？ 國內外有無副作用研究，跟成年人有什麼不同？ [未報]
+        * 跟流感一樣，會有相關說明書跟家長同意書，讓家長幫小朋友審視決定是否施打
+        * mRNA 疫苗(BNT/Moderna) 接種後的不適主要是頭暈、噁心、頭痛、發燒(年輕族群平均 1 成左右)，接種前請家長詳閱接種意願說明書
+        * 也會特別在意願書上說明，國外現在有報告說接種不管是莫德納或 BNT 後可能會發生罕見但有報告的心肌炎跟心包膜炎，症狀是胸痛、呼吸困難等等相關症狀，其中年輕男生發生的機會比女生高
+        * 並沒有特別疾病是不可以來接種 mRNA 疫苗，主要是疫苗成分若過去有嚴重過敏狀況，或有慢性疾病還未妥善控制的話，建議與自己的主治醫師討論後決定是否在這一波接種
 * [目前接種與預計開放情況](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H180Wamsd)
-    * (8/26-[141032](https://www.youtube.com/watch?v=tOaDUl40QqA&t=15m27s)/[141100](https://www.youtube.com/watch?v=tOaDUl40QqA&t=15m55s)) 學生接種是比照現在流感的模式嗎？ 在校園裡面大概會怎麼樣的來施打？ [未報]
-        * 目前還是比較傾向直接到校園裡施打
-    * (8/26-[141945](https://www.youtube.com/watch?v=tOaDUl40QqA&t=24m40s)/[142211](https://www.youtube.com/watch?v=tOaDUl40QqA&t=27m6s)) 學生族群接種順序？ [未報]
-        * 要看到貨的量再來安排，不過基本上都會從年齡大的往下打
-    * (8/26-[142345](https://www.youtube.com/watch?v=tOaDUl40QqA&t=28m40s)/[142402](https://www.youtube.com/watch?v=tOaDUl40QqA&t=28m57s)) 請問指揮中心會考慮在未來會使用第三劑嗎？ [未報]
-        * 基本上整體計畫是有準備第三劑的量，所以才會簽約購買在明年這樣的量
-        * 所以計畫是有，當然還要根據國際上相關研究，看他利弊得失到底怎麼樣，不過我們有準備
-* (8/26-142611) 20 min TBD
+    * [(8/28-140556)](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=10m41s) ![](https://i.imgur.com/TKA0hE5.jpg)
+    * [(8/28-140804)](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=12m49s) ![](https://i.imgur.com/fCwRJbe.jpg)
+    * 因為離施打還有一段時間，所以這兩者互相不衝突
+    * [(8/28-141543)](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=20m28s) 大家真的不用急在今天下午，不會因為意願登記的快慢來排施打的順序，如果一時不行，那就等一等晚一點或明天會比較順一點，因為它跟搶票不一樣
 * :::spoiler 問題列表 
-    1. (8/26-[142449](https://www.youtube.com/watch?v=tOaDUl40QqA&t=29m44s)/[142532](https://www.youtube.com/watch?v=tOaDUl40QqA&t=30m27s)) 彰化好像有提到說有個大學生在接種之後就全身癱軟，然後緊急送醫，請問一下有沒有掌握這樣的狀況？ [八大電視]
-    3. (8/26-[142424](https://www.youtube.com/watch?v=tOaDUl40QqA&t=29m19s)/[142500](https://www.youtube.com/watch?v=tOaDUl40QqA&t=29m55s)) 高端：有 5 個族群對象在試驗時被排除，那之後有沒有考慮要在接種仿單上加註說，可能這 5 個對象的人接種前要多一些諮詢或是詢問？ [八大電視]
-    4. (8/26-[142345](https://www.youtube.com/watch?v=tOaDUl40QqA&t=28m40s)/[142402](https://www.youtube.com/watch?v=tOaDUl40QqA&t=28m57s)) 以色列有研究指出，民眾打完第三劑 BNT 疫苗 10 天後體內產生的抗體是先前注射兩劑後的 4 倍，他們認為必須要打第三劑，請問指揮中心會考慮在未來會使用這個作法嗎？ [未報]
-    5. (8/26-[142234](https://www.youtube.com/watch?v=tOaDUl40QqA&t=25m29s)/[142303](https://www.youtube.com/watch?v=tOaDUl40QqA&t=27m58s)) 高端開打過後有 4 例的死亡通報個案，那麼有醫師建議應該要暫緩打一週或者是成立專案小組來調查，指揮中心有想要調查或者是緩打嗎？ [未報]
-    6. (8/26-[142005](https://www.youtube.com/watch?v=tOaDUl40QqA&t=25m)/[142024](https://www.youtube.com/watch?v=tOaDUl40QqA&t=25m19s)) 目前隔離中個案與接觸者的狀況？ 接觸者人數？ [未報]
-    7. (8/26-[141945](https://www.youtube.com/watch?v=tOaDUl40QqA&t=24m40s)/[142211](https://www.youtube.com/watch?v=tOaDUl40QqA&t=27m6s)) BNT：學生族群接種順序？ [未報]
-    8. (8/26-[141839](https://www.youtube.com/watch?v=tOaDUl40QqA&t=23m34s)/[141917](https://www.youtube.com/watch?v=tOaDUl40QqA&t=24m12s)) BNT：昨天新聞稿有提到說疫苗都是民間跟中央一起爭取來的，那特別有提到台積電、永齡有主動告知，那可不可以細講一下，大概是什麼時候我們接獲通知知道有這一批疫苗現貨釋出？ 中間有什麼樣的一個顧慮跟考量嗎？ 大概多久之後決定說我們要這一批疫苗？ 拿到這一批疫苗，是否與個人到歐洲去催貨有關，還是那部分的貨也是一樣在原定中秋節左右抵達呢？ [未報]
-    9. (8/26-[141753](https://www.youtube.com/watch?v=tOaDUl40QqA&t=22m49s)/[14](https://www.youtube.com/watch?v=tOaDUl40QqA&t=21m2s)) 近期抵台的疫苗除了 BNT 之外，莫德納跟 AZ 有預計的到貨時程嗎？ 那如果到了的話會怎麼做分配？ [未報]
-    10. (8/26-[141736](https://www.youtube.com/watch?v=tOaDUl40QqA&t=22m31s)/[141802](https://www.youtube.com/watch?v=tOaDUl40QqA&t=22m56s)) 高端：高端疫苗有最新爽約率的統計數據嗎？ 疫苗施打不良(反應)的消息，有沒有出現緩打潮？ [未報]
-    11. (8/26-[141554](https://www.youtube.com/watch?v=tOaDUl40QqA&t=20m49s)/[141607](https://www.youtube.com/watch?v=tOaDUl40QqA&t=21m2s)) 有認為 delta 變異株盛行，那接下來秋冬會是一大挑戰，要降級比較困難，想請問指揮中心怎麼看？ 目前有在研擬一些方案來因應秋冬嗎？ [未報]
-    12. (8/26-[141535](https://www.youtube.com/watch?v=tOaDUl40QqA&t=20m30s)/[141615](https://www.youtube.com/watch?v=tOaDUl40QqA&t=21m10s)) 高端：高端當初在受試的時候，排除了五類對象，包含免疫功能低下、不穩定的慢性病患或是懷孕女性的這些對象，有專家質疑說，那現在開放接種後，為什麼卻沒有排除這些對象？ 是不是應該讓民眾知道，到底哪些狀況不適合接種？ [未報]
-    13. (8/26-[141438](https://www.youtube.com/watch?v=tOaDUl40QqA&t=19m33s)/[14](https://www.youtube.com/watch?v=tOaDUl40QqA&t=18m54s)) 今天某立委說就是因為復必泰 3 個字卡了 3 個月，結果被新加坡買去人家就先打了，那我們這麼多人疫情死亡，想請問指揮中心，“你不該跟這些亡魂道歉嗎”，想請問指揮中心的回應？ [民視]
-    14. (8/26-[141411](https://www.youtube.com/watch?v=tOaDUl40QqA&t=19m6s)/[141455](https://www.youtube.com/watch?v=tOaDUl40QqA&t=19m50s)) BNT：報導說的本來要送到 A  國，但後來送到 B 國，然後中途被我方攔截是確有此事嗎？ 想請教這當中的過程，有沒有一波三折的感覺？ [民視]
-    15. (8/26-[141313](https://www.youtube.com/watch?v=tOaDUl40QqA&t=18m8s)/[141359](https://www.youtube.com/watch?v=tOaDUl40QqA&t=18m54s)) 台灣的疫苗覆蓋率 目前已經是超過四成了，指揮中心目前對於各行業，包括醫療教育乃至國軍人員，是否都維持沒有硬性強制打疫苗的原則呢？ [未報]
-    16. (8/26-[141252](https://www.youtube.com/watch?v=tOaDUl40QqA&t=17m47s)/[141331](https://www.youtube.com/watch?v=tOaDUl40QqA&t=18m26s)) 要開學了，但有老師因為身體健康，評估不適合打疫苗，所以選擇不打疫苗，不過受到校方和家長的壓力。 或是有人因為疫苗的廠牌選擇問題就釀成親友間的糾紛，那不曉得指揮中心怎麼看這樣的一個現象？ [未報]
-    17. (8/26-[141140](https://www.youtube.com/watch?v=tOaDUl40QqA&t=16m35s)/[141155](https://www.youtube.com/watch?v=tOaDUl40QqA&t=16m50s)) 疫苗不良事件通報高端的有幾件？ [未報]
-    18. (8/26-[141110](https://www.youtube.com/watch?v=tOaDUl40QqA&t=16m5s)/[141145](https://www.youtube.com/watch?v=tOaDUl40QqA&t=16m40s), [141229](https://www.youtube.com/watch?v=tOaDUl40QqA&t=17m24s)) 目前我們國內的疫苗涵蓋率已經超過了四成，您曾經說過希望 10 月能夠達到六成，不過有專家表示現在全世界印度 delta 變異株肆虐，加上我們接種完兩劑的突破性感染案例愈來愈多，建議我們的疫苗涵蓋率要至少達到七成比較安全再來開國門，不曉得部長怎麼看？ 今年有機會嗎？ [未報]
-    19. (8/26-[141032](https://www.youtube.com/watch?v=tOaDUl40QqA&t=15m27s)/[141100](https://www.youtube.com/watch?v=tOaDUl40QqA&t=15m55s)) 剛剛有提到說會給學生打，是比照現在流感的模式嗎？ 在校園裡面大概會怎麼樣的來施打？ [未報]
-    20. (8/26-[141020](https://www.youtube.com/watch?v=tOaDUl40QqA&t=15m15s)/[141045](https://www.youtube.com/watch?v=tOaDUl40QqA&t=15m40s)) BNT：剛剛有提到 BNT 的事情，因為其實各國都在爭取，我們是什麼原因可以直接爭取到呢？ [未報]
-    21. (8/26-[140929](https://www.youtube.com/watch?v=tOaDUl40QqA&t=14m24s)/[141005](https://www.youtube.com/watch?v=tOaDUl40QqA&t=15m)) 中秋節揪朋友到戶外烤肉可以嗎？ 會不會開放場地？ [TVBS]
-        * 整個疫情仍然(可能)有變化，時間比較近的時候再來跟大家報告
-    22. (8/26-[140908](https://www.youtube.com/watch?v=tOaDUl40QqA&t=14m3s)/[140941](https://www.youtube.com/watch?v=tOaDUl40QqA&t=14m36s)) 目前外出還是要佩戴口罩，例外情況如外出飲食時，要在通風處保持適當的安全距離。那一些沒有規劃室內或室外用餐區的餐飲業，客人若直接坐在餐廳外面的椅子比肩而坐或者是圍成一圈，這樣子是可以開放的嗎？ [TVBS]
-        * 在室外當然通風比較好，但是相對你拿下來那一定社交距離一定要把它維持住
-    23. (8/26-[140648](https://www.youtube.com/watch?v=tOaDUl40QqA&t=11m43s)/[140722](https://www.youtube.com/watch?v=tOaDUl40QqA&t=12m17s)) BBNT：疫苗來台灣之後，會怎麼樣來開放讓民眾施打？ 因為之前指揮官有說要給學生優先施打，會怎麼分配？ [中國時報]
-    24. (8/26-[140805](https://www.youtube.com/watch?v=tOaDUl40QqA&t=13m)/[140828](https://www.youtube.com/watch?v=tOaDUl40QqA&t=13m23s)) BNT：首批來的 BNT 疫苗，有傳出說原本是要送往土耳其，但是我們爭取到其中大部分的疫苗優先轉讓供應給台灣，想請教在這之中有沒有負責相關的人員，或是細節可以幫我們說明？ [未報]
-    25. (8/26-[140614](https://www.youtube.com/watch?v=tOaDUl40QqA&t=11m9s)/[140710](https://www.youtube.com/watch?v=tOaDUl40QqA&t=12m5s)) BNT：資深媒體人關於疫苗的相關訊息，想問一下說指揮中心可以證實這樣的訊息嗎？ [中國時報]
+    1. (8/28-[143317](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=38m3s)/[143340](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=38m25s)) 青少年接種疫苗是否有需要注意或建議不適合施打的情況？ 國內外有無副作用研究，跟成年人有什麼不同？ [未報]
+    2. (8/28-[143003](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=34m48s)/[143032](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=35m18s)) 入境民眾皆需在檢疫旅館或集檢所居家檢疫，這個政策是否可能會延續到明年農曆年前，現在已有蠻多的海外國人擔心到時可能一房難求？ [未報]
+    3. (8/28-[142924](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=34m9s)/[143106](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=35m51s), [143717](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=41m17s)) BNT 意願登記這次為什麼不讓已打過其他疫苗的人(第二劑)有機會勾選？ [未報]
+    4. (8/28-[142822](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=33m7s)/[143240](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=37m25s)) 高端 / 不良事件通報與爽約率？ [中視]
+    5. (8/28-[142733](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=31m18s)/[142753](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=32m39s)) 個人在臉書上搶先發布關於加零暗號，指揮中心會開罰嗎？ [華視]
+    6. (8/28-[142603](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=30m48s)/[142624](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=31m9s)) 高中以下 9/1 開學，有住宿生家長投訴，至今學校宿舍尚未開放入住，國教署說指揮中心還未定？ [中視]
+    7. (8/28-[142552](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=30m37s)/[142646](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=31m31s)) 地方先行公佈下一輪的時間點與劑量，是否有違反規定？ [中視]
+    8. (8/28-[142540](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=30m25s)/[143602](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=40m36s)) 第七輪沒有開放長者打第二劑，長者間隔十週的要怎麼辦？ [中視]
+    9. (8/28-[142459](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=28m44s)/[142520](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=30m5s)) 某縣市長言談的回應？ [未報]
+    10. (8/28-[142410](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=28m56s)/[142425](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=29m10s)) 是否是因為近期境外移入有個案是國籍航空機師，所以才更改空服員檢疫相關規定 ？ [未報]
+    11. (8/28-[142303](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=27m49s)/[142351](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=28m36s)) 民眾投訴 / 高端 / 無三高 / 醫生說是血栓 / 是否有接獲通報 ？ [TVBS]
+    12. (8/28-[142240](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=27m25s)/[142316](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=28m1s)) 海泳浮淺未照原計畫(8/24)開放，觀光局擬定的防疫管理措施目前指揮中心還未核准，請問防疫計畫有哪裡違反防疫或還不周全呢？ 現在已經開始相關活動會不會有疑慮？ [TVBS]
+    13. (8/28-[142145](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=26m30s)/[142205](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=26m51s)) AZ 第二劑安排與混打可能？ [未報] ![](![](https://i.imgur.com/oiXUptF.jpg))
+    14. (8/28-[142108](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=25m53s)/[142214](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=26m59s)) 混打的組合與適用族群？ [未報]
+    15. (8/28-[142003](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=24m48s)/[142022](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=25m7s)) 大學生開學防疫指引？ [未報]
+    16. (8/28-[141950](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=24m35s)/[142040](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=25m25s)) BNT / 放行原因臆測的回應詢問 [未報]
+    17. (8/28-[141753](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=22m38s)/[141907](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=23m52s), [143157](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=36m42s)) 巴拿馬籍船：基因定序與採檢結果？ 接觸者與社區接觸情況？ [大愛]
+    18. (8/28-[141732](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=22m16s)/[141815](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=23m1s)) 中山大學關於氣溶膠的研究與隔板？ [大愛]
+    19. (8/28-[141638](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=21m23s)/[141652](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=21m37s)) 友邦貝里斯洽談購買高端？ 是否有其他友邦或友好國家也有透露意願購買？ [三立]
+    20. (8/28-[141625](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=21m11s)/[141722](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=22m7s)) 關於今早新北通報個案 [三立]
+    21. (8/28-[141328](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=18m13s)/[141530](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=20m15s)) 稍早預約平台當機卡卡的情況 [未報]
+    22. (8/28-[141316](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=16m27s)/[141349](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=18m34s)) 疫苗 / 突破性感染 / 境外移入 [未報]
+    23. (8/28-[141138](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=16m23s)/[141200](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=16m45s)) 疫苗 / 立委聯合聲明 / 18~19 歲族群 [未報]
+    24. (8/28-[141018](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=15m2s)/[141036](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=15m21s)) 高端接種率？ [未報]
+    25. (8/28-[141002](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=14m48s)/[141025](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=15m10s)) 第七輪符合資格人數？ [未報]
+
+#### 2021.8.27 記者會
+
+* 影片連結 [1](https://www.youtube.com/watch?v=Zz-wGMEwAFc)
+* 疫情 [(8/27-140309)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=7m54s) 
+	* ![](https://i.imgur.com/e0V3zbH.jpg)
+	* [2021.8.27 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/HlZnsSTec4DWLUImDV3zSA?typeid=9) ![](https://i.imgur.com/idAkalk.jpg)
+	* [![](https://i.imgur.com/NEboCsJ.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1966343580198717)  
+	* [(8/27-140742)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=12m27s) +7萬(79,757) / 41.51% / 45.1% 
+    * 境外 ![](https://i.imgur.com/FdGtH4o.png)
+* 二級警戒
+    * [(8/27-140534)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=10m20s) 雙北不再是中高風險區域 與先前開放縣市的要求跟標準是一樣的 ![](https://i.imgur.com/f5HR9Jf.jpg)
+    * (8/27-[141853](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=23m39s)/[142027](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=25m12s)) 明天開始派飛長程航班的機組員，現在不管有沒有打疫苗，都需入住防疫旅館或是公司的防疫宿舍 5 天？ [東森]
+        * 現行 
+            * ![](https://i.imgur.com/hBVUGCU.jpg)
+            * ![](https://i.imgur.com/ZvL0RNn.jpg)
+        * 調整 
+            * 長程航班第一、二類(不具或未具完整疫苗保護力) = 考量國際風險的提高，改為不得在家居家檢疫，主要是為了避免萬一有傳染的家戶內群聚
+            * 估計每天大概 100 位機組人員受到影響
+        * 至於媒體報導說，可能打完二劑的機組人員都需要居家檢疫(原來為自主健康管理加強版)，目前指揮中心內部還在討論當中，還是會兼顧飛安，還有機組員的檢疫需求，再來做綜合的考量，目前還沒有拍板定案
+        * [機組員防疫QA (QA for Crew Epidemic Prevention Practices)](https://www.caa.gov.tw/Article.aspx?a=3046&lang=1)
+* [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
+    * (8/27-[140923](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=14m9s)) 境外基因定序 [自由時報] 
+        * 總共 16 例 delta 確定病例，==ct 值從 9~29 不等，所以也是有病毒量非常高==跟比較低一點的
+        * 累計 delta (83) 
+            * 13 本土 屏東
+            * 境外 70 例中有 8 例符合突破性感染
+            * 目前境外移入 delta 壓力還是蠻大的，我們邊境還是必須要嚴管
+        * (8/27-[141110](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=15m55s)) 持續監測本土病例病毒基因定序：7 月 153 例，8 月 51 例，均為 alpha (除屏東群聚)
+        * ![](https://i.imgur.com/FyPlQTr.jpg)
+        * ![name=Emerson](https://i.imgur.com/mB7ndMW.jpg)
+    * [(8/27-141139)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=16m24s) 突破性感染 
+        * 7/2~8/27 公佈過 214 例境外移入 ，其中 23 例突破性感染 10.7% (廠牌資訊請參考影片說明)
+        * 今天境外移入有 3 例為，其中 1 例為 AZ+莫得納混打
+    * [(8/27-141313)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=17m58s) 從這些案例其實可以看到
+        * 台灣現在主流病毒株是 alpha，境外或說全世界主流是 delta 
+        * 各類型的病毒株，光是打疫苗還是有相當的比例會有突破性感染，所以在邊境要防守好，當然也不能完整接種疫苗以後就豁免，還要再多觀察一段時間
+        * 最主要是我們自己的防疫能力要更好，換句話說疫苗覆蓋率越高，自我保護力就會越好，戴口罩、勤洗手也是非常重要的事情
+    * (8/27-[143814](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=42m59s)/[144001](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=44m46s)) 有 2 天是這個本土加零的狀態，那想請問一下指揮中心，現在有沒有計畫一個降級的時間表或條件？ [民視]
+        * 降級還沒有，有幾個零，還是一樣，有零當然是非常的高興，是對這防疫帶來一絲的希望，那==怎樣把它維持住，不是要維持零，是維持在==
+            * **疫情疫調都能夠充分地快速地來做，整體的行政效率能夠變高，持續地維持好來**
+            * **警訊能夠即時快速反映**
+            * **加上疫苗的涵蓋率升高**
+        * 那才有降級的可能
+    * (8/27-[142253](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=27m39s)/[142333](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=28m19s)) 有媒體報導說 有一艘巴拿馬籍的貨輪從泰國出發，前天停靠台中港，昨天才離開，可是前往日本途中因為船長出現發燒症狀，就緊急在台北港外海下錨，通報請求協助。台灣海巡單位有用接駁的方式把船長送醫急救，不過這位船長已經確診不治。 想請問我們現在針對台中港有沒有進一步進行疫調或相關的掌握？ 另外因為船上有多人有發燒不適的症狀，會怎麼安排這艘貨輪以及船上的人員？ [新唐人]
+        * 8/26 晚 11:43 
+            * 通報船上有船員需急救，後來停泊在台北港，協助用吊掛的方式上岸
+            * 送往醫院之後不幸到院前死亡
+        * 疫調
+            * 已針對在台中港停泊的期間，所接觸的對象做了完整的疫調，目前是匡列了 1 位港務的同仁，其他人員做自主健康管理
+            * 船上現在目前通報有幾位船員有症狀，如果提出需要我們的協助，也會在相關防疫規範下進行
+        * 後續船務
+            * 因為它是巴拿馬籍船，下一個目的地是日本，因為往生的是船長，接續船務部分是不是由船上大副來接手等等，必須等船公司向巴拿馬提出申請等等，所以這個會依照船東做最後的決定，也會配合我國這個邊境防疫等等，如果他要往下一個港口 我們會予以協助
+* [各類問題](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HyQwwNzhu)
+    * (8/27-[143632](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=41m17s)/[143654](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=41m39s)) 我們因為防疫有成的關係 就是把 Delta 病毒也降到最低，大概現在台灣也要進入振興階段，那像昨天政院其實有公布五倍券的規劃，所以大家都討論要怎麼花，想問部長去年你三倍券是怎麼花的 買了什麼東西這樣？ 那今年可能會想說要怎麼花這個五倍券呢？ [未報]
+        * 去年年的三倍券，我記得其中有一個1000 塊去買了冰棒，這是有印象，因為晚上剛好有發生一些事情所以有印象，我喜歡吃那個花生冰棒，所以花了 1000 塊錢買了那個花生冰棒，今年我還沒想到，5000 塊再拿來買冰棒又稍微多了一點
+        * 當然大家我想每一個人都有他的一個用途，有一個期待，那**希望能夠對於台灣的經濟，尤其我們的庶民經濟有幫助**，我想那是一件好的事情
+    * (8/27-[143835](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=43m20s)/[143852](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=43m37s)) 上午指揮官有上廣播節目有提到說，美國送的莫德納疫苗來的時候，因為很激動，所以抱了一下周署長，那可不可以請周署長幫我們還原一下當時什麼狀況跟心情？ [民視]
+        * 來 周署長 人家問你 
+        * 我們那時候都真的是非常非常的高興，那真的是喜出望外，非常的及時雨，第一個感覺說這美國真是很夠朋友
+        * 那時候是這樣子，要還原這情況，就我們本來都已經宣布這75萬劑的莫德納要來，來幫助我們，那天晚上周署長突然跑來跟我講說，(台語)不是 75 萬，是 125 萬，他站在我旁邊，我坐著，我就把他([143925](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=44m10s))，很激動地就把他抱起來 
+        * 那我想不是只我很高興，他也很高興，大家聽到也都很高興，其實那也是對我們很大的幫忙
+        * 日本 334 萬劑 也對我們很大幫忙
+        * 這次 BNT 要進來，也對我們整個防疫都很多的幫忙
+        * 這都是很值得我們高興的事情，那我們會持續地努力，希望趕快把這個涵蓋率把它拉高來
+* [疫苗資訊](https://hackmd.io/Rl4fM4FpQwqUgBPVhV5D7A)
+    * [(8/27-140437)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=9m22s) ![](https://i.imgur.com/7KuPumy.jpg)
+    * [(8/27-140631)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=11m16s) ![](https://i.imgur.com/9mpKWPs.jpg)
+    * (8/27-[142605](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=30m51s)/[142633](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=31m19s)) BNT 是否會影響高端施打意願？ [三立]
+        * 我們不會考慮到誰打什麼影響到這樣，只關心大家要打的意願是不是能夠提高、提供的疫苗是不是能夠滿足大家的需要，這是我們在努力的方向 而不在於，因為怎麼樣而哪一個疫苗的施打意願變低，這不在我們的考慮之內
+    * (8/27-[143045](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=35m30s)/[143107](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=35m52s)) 日本停用了 163 萬劑受到污染的莫德納疫苗，未來我們是不是會特別去留意到貨疫苗是否來自這個西班牙 Rovi 藥廠？ [未報]
+        * 不會因為哪一個，當然大家都會特別注意一下，不過基本上還是照著原來的**檢驗的 SOP** 一步一步確實把它做好
+        * 那到了施打的地方，醫護人員在施打的時候，也是要有相對的**三讀五對等等**該去注意的事情，如果把每一個步驟做好，應該就不會有問題
+    * (8/27-[143614](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=40m59s)/[143740](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=42m26s)) 疫苗到貨問題 [未報]
+        * 近來都有一些可能性，但是就是因為沒有完全的把握掌握時間，所以我們要稍微等一等，把這時間確定了，我們對於施打上的計畫能夠做得更完整，不會說一直改一直改
+        * 當然改有時候也是免不了的，但希望在可以的範圍內，儘量可以不用這樣子一直改
+* [目前接種與預計開放情況](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H180Wamsd)
+    * [(8/27-140713)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=11m58s) ![](https://i.imgur.com/YO2rJTx.jpg)
+    * (8/27-[140804](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=12m50s)/[140859](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=13m44s)) BNT 有說 120 給學生，剩餘約 80 萬劑預計安排？  [中視]
+        * 未來進來要看它的進貨順序，不過現在是開學，**這些學生從來也沒有機會施打，所以新進來的這一批就會給學生(12~18 歲)**
+        * 接下來如果還有量，當然還是像以前從一至十類，根據人口年齡別往下開放
+    * (8/27-[140830](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=13m15s)/[140840](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=13m26s)) 近日新到貨的莫德納(3)與 AZ(25) 如何分配？ [中視]
+        * 第七輪，主要還是擴大第一劑的量能，但也會保留一定比例給想要打第二劑的長者
+* :::spoiler 問題列表 
+    1. (8/27-[143835](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=43m20s)/[143852](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=43m37s)) 上午指揮官有上廣播節目有提到說，美國送的莫德納疫苗來的時候，因為很激動，所以抱了一下周署長，那可不可以請周署長幫我們還原一下當時什麼狀況跟心情？ [民視]
+    2. (8/27-[143814](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=42m59s)/[144001](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=44m46s)) 有 2 天是這個本土加零的狀態，那想請問一下指揮中心，現在有沒有計畫一個降級的時間表或條件？ [民視]
+    3. (8/27-[143632](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=41m17s)/[143654](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=41m39s)) 我們因為防疫有成的關係 就是把 Delta 病毒也降到最低，大概現在台灣也要進入振興階段，那像昨天政院其實有公布五倍券的規劃，所以大家都討論要怎麼花，想問部長去年你三倍券是怎麼花的 買了什麼東西這樣？ 那今年可能會想說要怎麼花這個五倍券呢？ [未報]
+    4. (8/27-[143614](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=40m59s)/[143740](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=42m26s)) 疫苗到貨問題 [未報]
+    5. (8/27-[143528](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=40m13s)/[143540](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=40m26s)) 剛剛說在等的疫苗是今天這批嗎？ 封緘檢驗什麼時候會完成？ [未報]
+    6. (8/27-[143353](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=38m40s)/[143411](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=38m56s)) 被人家檢舉的某國中管樂社的獨立屏障為什麼不行？ [未報]
+    7. (8/27-[143342](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=37m42s)/[143506](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=39m52s))  BNT / 決策細節 [未報]
+    8. (8/27-[143257](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=37m42s)/[143327](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=38m12s)) 第七輪規劃 [未報]
+    9. (8/27-[143158](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=36m44s)/[143221](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=37m7s)) 未來疫情穩定後的記者會或是說，回歸常態化各部門的職務上去執行 [未報]
+    10. (8/27-[143140](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=36m25s)/[143212](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=36m56s)) (無關)內閣改組相關 [未報]
+    11. (8/27-[143057](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=35m42s)/[143230](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=37m15s)) 疫情穩定 KTV 跟 MTV這些行業很關心說 9月7 號以後是不是有機會開放？ [未報]
+    12. (8/27-[143045](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=35m30s)/[143107](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=35m52s)) 日本停用了 163 萬劑受到污染的莫德納疫苗，未來我們是不是會特別去留意到貨疫苗是否來自這個西班牙 Rovi 藥廠？ [未報]
+    13. (8/27-[143006](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=34m51s)/[143022](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=35m7s)) 高端 / 一定比例驗抗體 [未報]
+    14. (8/27-[142821](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=33m7s)/[142856](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=33m41s)) 中小學教育相關人員開放接種 那目前接種人數回報狀況如何? / 學生接種疫苗假相關 / 校園接種 [大愛]
+    15. (8/27-[142722](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=32m7s)/[142758](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=32m43s)) BNT 到貨相關 [中時] 
+    16. (8/27-[142000](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=31m46s)/[142738](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=32m23s)) 聯亞重新送審相關 / 未來 EUA 標準會不會因為要防範 Delta 變種病毒而有調整呢？ [中時]
+    17. (8/27-[142605](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=30m51s)/[142633](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=31m19s)) BNT 是否會影響高端施打意願？ [三立]
+    18. (8/27-[142551](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=30m37s)/[142621](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=31m7s)) 十月目標疫苗涵蓋率是不是有機會？ [三立]
+    19. (8/27-[142527](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=30m12s)/[142541](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=30m26s)) 小朋友在學校刷牙 排隊群聚風險 [華視]
+    20. (8/27-[142253](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=27m39s)/[142333](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=28m19s)) 前天停靠台中的巴拿馬籍貨輪相關 [新唐人]
+    21. (8/27-[141853](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=23m39s)/[142027](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=25m12s)) 明天開始派飛長程航班的機組員，現在不管有沒有打疫苗，都需入住防疫旅館或是公司的防疫宿舍 5 天？ [東森]
+    22. (8/27-[141837](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=23m22s)/[141908](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=23m54s)) 疫苗接種後死亡個案詢問與說明 [東森]
+    23. (8/27-[141802](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=22m47s)/[141819](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=23m3s)) BNT 迎接程序最高層級會到那邊？ [民視]
+    24. (8/27-[141752](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=22m37s)/[141810](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=22m55s)) BNT 到貨時間證實？ [民視]
+    25. (8/27-[141637](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=21m22s)/[141646](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=21m32s)) 剛才提到的教師專案分配的是哪一個廠牌的疫苗？ [未報]
+    26. (8/27-[141601](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=20m46s)/[141656](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=21m41s)) 境外移入施打疫苗接種紀錄提供？ / 欲蓋彌彰 [未報] 
+    27. (8/27-[141529](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=20m15s)/[141549](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=20m34s)) 混打後突破性感染 [未報] 
+    28. (8/27-[141432](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=19m17s)/[141445](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=19m30s)) BNT / 誰的功勞 / 怎麼看外界這些聲音？ [TVBS] 
+    29. (8/27-[141407](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=18m52s)/[141513](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=19m58s)) 18~20 歲成了風險最高的？ 加上有些還沒打疫苗的大學教授，大學校園其實還蠻危險的？ [TVBS] 
+    30. (8/27-[140923](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=14m9s)) 境外基因定序 [自由時報]
+    31. (8/27-[140830](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=13m15s)/[140840](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=13m26s)) 近日新到貨的莫德納(3)與 AZ(25) 如何分配？ [中視]
+    32. (8/27-[140822](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=13m8s)/[](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=30m27s)) 50 歲以上民眾因重症率較高，應該排在學生前面優先施打 BNT ？ [中視]
+    33. (8/27-[140804](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=12m50s)/[140859](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=30m27s)) BNT 有說 120 給學生，剩餘約 80 萬劑預計安排？  [中視]
 
 
 #### 呼籲全國民眾
@@ -217,6 +348,7 @@
     * [疫苗資訊](https://hackmd.io/Rl4fM4FpQwqUgBPVhV5D7A)
     * [目前接種與預計開放情況](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H180Wamsd)
 * :::spoiler TBD
+    * (8/26-142611) 20 min
     * (8/24-141632) 19 min
     * (8/23-141942) 11 min
     * (8/18-141333) 27 min
@@ -1039,8 +1171,11 @@
     * 2021.8.15 => 第 6 批 Moderna 24.9 萬抵台
 * Week17
     * 2021.8.16 => 國產疫苗 U 未通過 EUA 
-* Week18
     * 2021.8.21 => 二級延長 ~9/6
+* Week18
+    * 2021.8.23 => Covid-19 加強監測方案
+    * 2021.8.25 => 本土零確診
+    * 2021.8.27 => 第 6 批 AstraZeneca 26.5 萬抵台
 
 :::success
 
@@ -1065,6 +1200,8 @@
 [![](https://i.imgur.com/3zMOZ54.jpg)](https://www.facebook.com/frankcthsiehfans/posts/10158209910441430)
 
 :::
+
+
 
 
 
