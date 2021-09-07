@@ -4,65 +4,34 @@
 
 ![](https://i.imgur.com/95OcK41.jpg)
 
-## 疫情警戒標準 全國二級 心頭掠予定 (~9/6) 桃園加強警戒 (~9/9)
+## 疫情警戒標準 全國二級 心頭掠予定 (~9/20) 桃園加強警戒 (~9/9)
 
-(更新至 9/5)
+(更新至 9/6)
 
-### 現行管制 二級延長 7/27 ~ 9/6
+### 現行管制 二級延長 7/27 ~ 9/20
 
 :::danger
 
-![](https://i.imgur.com/P34CB4N.jpg)
-
-:::
-
-:::success
-
-[(8/21-140242)](https://www.youtube.com/watch?v=6HPWGWURH4M&t=5m29s) 疫情穩定，仍然維持二級警戒
-
-![](https://i.imgur.com/5NVAeAJ.jpg)
+[(9/6-140856)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=13m41s) 
+![](https://i.imgur.com/BLDubrR.jpg)
 
 <br>
 
-集會遊行的上限 50/100 --> 80/300 超額時須提防疫計畫
-![](https://i.imgur.com/l5ElVRx.png)
 
+![](https://i.imgur.com/GtSATU2.jpg)
 
-#### 各行業別管制作為 (調整部分)
+**需要關閉的場所跟原來一樣**
 
-![](https://i.imgur.com/ssPWTcw.png)
+**調整**
 
+* 雙鐵沒有站票但可以坐滿
+* 遊覽車 五成或是20人 -> 八成為上限，社交距離變短車廂內也請大家要注意戴口罩。不開放飲食
+
+#### 縣市
+
+![](https://i.imgur.com/P34CB4N.jpg)
 
 #### 指引調整/提醒
-
-* :::spoiler **入住防疫旅館應遵守事項** [(8/19-140545)](https://www.youtube.com/watch?v=ExwvsuzRJDg&t=8m37s)
-    * 大概近來在防疫旅館的人也多了，有一些在遵守事項上有一點不瞭解或是沒有注意，所以特別再提醒一下 
-    * 這跟平常在住旅社不一樣，所以清潔要自行處理，最主要是房務人員不得進入房內打掃，不要有這樣的誤解
-    * 其實這個措施已經實施很久了，不過陸陸續續還有人，因為不瞭解或者以平常習慣來處理自己的檢疫期間的一些行為，這些都是錯誤的，這來再三強調任何理由不能自己跑出來，==**除了**==，發生緊急情況之外(以保護生命為優先)
-* ![](https://i.imgur.com/zENTTSq.jpg)
-* :::spoiler **8/23 境外生專案入境** [(8/21-140606)](https://www.youtube.com/watch?v=6HPWGWURH4M&t=8m52s)
-    * 先前配合邊境嚴管措施，在 5/19 起暫停境外學生入境申請作業，考量目前國內的疫情趨緩 以及 110 學年度入學在即，所以在 8/20 已經專簽指揮中心並獲得同意重啟境外生入境的作業
-    * 適用對象主要三類 (約 13,000 名左右)
-        * 第一類：屬於境外的學位生，包含僑生、外國學生、港澳生、以及陸生
-        * 第二類：屬於外交部的台灣獎學金，以及教育部華語文教學的受獎生
-        * 第三類：屬於政府雙邊互惠，以及特殊的政策專案入境的學位生
-    * 程序：
-        * 入境前：先由學校把名冊透過教育部轉給各個駐外館處，那這樣子學生就可以跟駐外館處來申請簽證
-        * 完成檢疫後：期間建議不要進入校園以及到人潮擁擠的處所
-    * 此外，在學生居家檢疫以及自主健康管理期間，也會請學校提供學習的銜接機制，讓學生的學習不中斷
-    * 如果學生因為當地的疫情或是航班，或是其他個人的因素沒有辦法來得及在 110 年開學之前返回台灣來就學的話，學校也會提供線上註冊以及啟動安心就學機制來協助學生可以順利地學習
-* ![](https://i.imgur.com/vgPdjpt.png)
-* **(全國) 特定病房 探病管制措施** [(8/24-140615)](https://www.youtube.com/watch?v=VqpHJP03rMI&t=11m12s) ![](https://i.imgur.com/6u8CN8s.jpg)
-* **風險縣市(台北市、新北市) 住院及陪病公費定期篩檢措施** [(8/24-140746)](https://www.youtube.com/watch?v=VqpHJP03rMI&t=12m43s) ![](https://i.imgur.com/96SOGp5.jpg)
-* **入境旅客** [(8/24-140852)](https://www.youtube.com/watch?v=VqpHJP03rMI&t=13m48s) ![](https://i.imgur.com/HHGUvZw.jpg)
-* [(8/27-140534)](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=10m20s) 雙北不再是中高風險區域 與先前開放縣市的要求跟標準是一樣的 ![](https://i.imgur.com/f5HR9Jf.jpg)
-* [(9/1-140445)](https://www.youtube.com/watch?v=2JQBn0OhosA&t=9m35s) 國外 delta 病毒株佔比例越來越高，對世界各國也都形成影響，境外移入也多有突破性感染，為了讓整體的邊境能夠守得更好 (紅字為調整內容) [(9/3-140806)](https://www.youtube.com/watch?v=CYWF0ioNSZc&t=13m2s) ==即日起== ![](https://i.imgur.com/L2UHqYf.jpg)
-* ::: spoiler 國籍航空機組員返台防檢疫措施 過去調整
-    * 9/1 ![](https://i.imgur.com/4YdKmwH.jpg)
-    * 8/26 ![](https://i.imgur.com/kDoEE2Z.png)
-    * 7/21 ![](https://i.imgur.com/fMRMn89.jpg)
-    * [機組員防疫QA (QA for Crew Epidemic Prevention Practices)](https://www.caa.gov.tw/Article.aspx?a=3046&lang=1)
-
 
 #### 加強監測方案 [(8/23-140300)](https://www.youtube.com/watch?v=CLIKmO6KQmE&t=7m56s)
 * 疫情現在目前穩定，不過怎麼樣有更多的方式對疫情警訊能夠及早監測，有一些本來已經在做的，與開始要做的一些相關加強監測方案。隨時滾動式的檢討
@@ -82,6 +51,12 @@
 
 #### 機組員檢疫措施相關提問
 
+* [(9/1-140445)](https://www.youtube.com/watch?v=2JQBn0OhosA&t=9m35s) 國外 delta 病毒株佔比例越來越高，對世界各國也都形成影響，境外移入也多有突破性感染，為了讓整體的邊境能夠守得更好 (紅字為調整內容) [(9/3-140806)](https://www.youtube.com/watch?v=CYWF0ioNSZc&t=13m2s) ==即日起== ![](https://i.imgur.com/L2UHqYf.jpg)
+* ::: spoiler 國籍航空機組員返台防檢疫措施 過去調整
+    * 9/1 ![](https://i.imgur.com/4YdKmwH.jpg)
+    * 8/26 ![](https://i.imgur.com/kDoEE2Z.png)
+    * 7/21 ![](https://i.imgur.com/fMRMn89.jpg)
+    * [機組員防疫QA (QA for Crew Epidemic Prevention Practices)](https://www.caa.gov.tw/Article.aspx?a=3046&lang=1)
 * :::spoiler 明天開始派飛長程航班的機組員，現在不管有沒有打疫苗，都需入住防疫旅館或是公司的防疫宿舍 5 天？ [東森] (8/27-[141853](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=23m39s)/[142027](https://www.youtube.com/watch?v=Zz-wGMEwAFc&t=25m12s))
     * 現行 
         * ![](https://i.imgur.com/hBVUGCU.jpg)
@@ -108,71 +83,21 @@
     * 因為剛剛講 3 位(機師)都曾到芝加哥的一個機場，所以我們要求長榮公司對於芝加哥外站的管理，特別加強跟檢視，那在加強跟檢視還沒有完整報告完成之前，先要求到該外站全部(機組員)都要居家檢疫 14 天
 * :::spoiler 因為我們有看到滿多長程航班的機師表示，現在外站的外國地勤其實都沒有被要求強制戴口罩，那這讓機組員就算做了完整的防護，在外站染疫的風險還是很高。這部分機組員其實有跟航空公司反映過，可是公司都表示沒有辦法強制，只有要求自己的機組員要自行保持距離。剛剛工會也發聲明他們希望說，不知道指揮中心是否可以稽核外站的防疫流程，還有在確診組員的感染源沒有確定之前，是不是可以暫停派飛到疑似的高風險場站，還有就是避免同機組員交叉感染，所以希望在居檢期間不要再次派飛跟執勤，不曉得這部分指揮中心是否有辦法進一步瞭解跟介入呢? **[報導者]** (9/3-[141634](https://www.youtube.com/watch?v=CYWF0ioNSZc&t=21m30s)/[141732](https://www.youtube.com/watch?v=CYWF0ioNSZc&t=22m28s))
     * 我們會跟民航局與航空公司一起來討論這樣一個事情，當然盡所有的可能性，讓他們互相交叉感染的可能降到最低，這也是我們要努力的方向
+* :::spoiler 關於取消『每三個月抗體檢驗追蹤』的補充說明 [(9/5-140847)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=13m42s)
+    * 本來專家諮詢小組給指揮中心的建議是打完二劑後會驗抗體，之後每隔 3 個月繼續追蹤他們抗體的狀況
+    * 之後再經過第一次篩檢與討論以後，我們重點發現說
+        * 極少數不產生抗體的人(幾千位裡只有 7 位) => 沒有辦法當作 完整疫苗接種的檢疫隔離模式做處理 / 有沒有什麼補救方式，追加其他的疫苗或第三劑
+        * 會產生抗體的人 => (可預期)隨著時間抗體力價會慢慢地下降 追蹤意義不大 => 重點是 什麼時候需要追加第三劑疫苗的施打
+    * 專家諮詢小組的討論概念上是這樣子，==所以覺得最早期的建議(每 3 個月追蹤抗體)，其實實質的意義不是非常大，而是在後續處理以及機組員檢疫模式才是比較重要的==
+    * (9/5-[141612](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=21m7s)/[141708](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=22m2s)) 7 個沒有驗出抗體的，這個部分是不是有討論到說要加打第三劑? 這 7 個人要加打，還是說所有人都要加打第三劑?  [==報導者 :doughnut:==]
+        * 7 位打完二劑疫苗還不會產生抗體
+            * 這是我們要另外單獨特殊處理的，包括要看他原來打的疫苗是哪一種，確實是考慮要追加接種
+            * 可是這一方面要得到他們本人的同意，這是超過我們指揮中心原設定的範圍
+            * ACIP小組委員是建議是用一個比較屬於研究性質的，因為對於這些非常特殊體質的人，應該用研究的方式處理，那才比較不會跟現行疫苗注射規矩有所牴觸
+        * 其他的所有的機組員
+            * 確實不管是專家諮詢小組會議或指揮中心這邊，如果要對抗 delta 或其他的變種病毒株，他們還是要持續飛到國外去的話，在某一個適當的時間點，考慮要追加第三劑的
+        * 所以這是兩個不太一樣的情境
 
-#### 相關提問
-
-
-* :::spoiler 下一階段目前有沒有預定還會再放寬的部分與邊境管制調整以因應國際疫情升溫？ [未報] (8/19-[142518](https://www.youtube.com/watch?v=ExwvsuzRJDg&t=28m9s)/[142556](https://www.youtube.com/watch?v=ExwvsuzRJDg&t=28m47s))
-    * 國內：
-        * 同住親友外食的共餐會放寬 (考量小孩/長者/外傭等需求)，這方面在研擬相關的指引予以放寬
-        * ::: spoiler 同住家人驗證？ [(8/19-143105)](https://www.youtube.com/watch?v=ExwvsuzRJDg&t=33m56s)
-            * 很難，指引規定是大家對這個防疫的警覺，但不要因為這樣子而讓有需要的人受到妨害
-            * 這是大家要自律的問題，是要保護大家，大家不要把它當作限制，所以在能夠在保護大家的前提之下，提供這樣的一個方式能夠共餐也可以生活比較正常一點。從比較人性的角度來看，那這樣就能夠讓這樣的一個制度維持的比較穩定
-            * 目前規範下，小孩若有餵食需求，食藥署以前在 QA 裡面講過，是可以的
-    * 邊境：
-        * 大家反應很多，可是大概短期內不會放，但在資格上，對於在人道這部分會稍微放寬一點，但是檢疫的條件是不會放
-* :::spoiler 研擬 8/24 鬆綁同住家人可以共鍋，不需要隔板跟梅花座，但不少的餐飲業者認為指引標準不明確，要如何證明是同住家人？ 要拿戶口名簿嗎？ 而且有的同住不一定是家人，可能是朋友或情侶，也適用同住家人的標準嗎？ 是否可以給業者一些建議？ [未報] (8/20-[141240](https://www.youtube.com/watch?v=JPW2zB12yok&t=15m37s)/[141320](https://www.youtube.com/watch?v=JPW2zB12yok&t=16m16s))
-    * 同住家人相關的事項是在指引裡面作修改
-    * 若告知不實，未來違規處分是處分行為人，不會去處分餐廳，餐廳他沒有查證的義務，但是行為人必須對自己的行為負責
-    * 餐廳如果不放心而一定要用隔板等等的一些措施，那應該是說客隨主便，就是說客人不能去要求說我不要，因為在基本上好像就是一個餐廳的裝潢，你覺得這地方不適合你用餐，你可以不用(去)，當然你很難叫餐廳說那個屏風不能裝，那個門口太小。所以在基本上在行為上面，餐廳如果要有認為說他要加嚴要隔板，那是他的一個自主權，我們會尊重餐廳
-* :::spoiler 美國有專家說塑膠隔板可能會阻擋到空氣的流通而且還沒有辦法阻止在空氣中漂浮的氣溶膠傳染？ [未報] (8/21-[141711](https://www.youtube.com/watch?v=6HPWGWURH4M&t=19m57s)/[141744](https://www.youtube.com/watch?v=6HPWGWURH4M&t=20m30s))
-    * 不同傳染途徑(氣溶膠、飛沫)有不同預防方式(通風)，都有一些相關的見解
-    * 隔板主要是針對在吃飯的時候容易有飛沫噴濺，以這個目標來做預防
-* :::spoiler 學校 9 月開學以後，需不需要對入學學生進行全面快篩，不管是境外生或者是所有學生？ [自由時報] (8/21-[142423](https://www.youtube.com/watch?v=6HPWGWURH4M&t=27m9s)/[142500](https://www.youtube.com/watch?v=6HPWGWURH4M&t=27m47s))
-    * 境外生：有居家檢疫滿 14 天的時候就會做 PCR，那等於是對境外生做一個普篩
-    * 台灣入學學生
-        * 是不是要考慮這種某種情況的篩檢 我們現在也稍微的研議一下社區監測要怎麼樣來做，禮拜一也會跟大家宣布
-        * 但學生裡面一律做普篩，我們可能目前比較沒有這樣的一個傾向
-* :::spoiler 兒童樂園可以開放，為什麼公園遊樂設施還不行？ [未報] (8/22-[140553](https://www.youtube.com/watch?v=n-yr2GPKK-o&t=8m50s)/[140609](https://www.youtube.com/watch?v=n-yr2GPKK-o&t=9m5s))
-    * 可以跟地方政府來反應，基本上就是把防疫做好，應該是沒有問題。現在室內遊樂場也開放，換句話說，管理與防疫的情況，並沒有禁止它開
-* :::spoiler 電子遊藝業？ [未報] (8/22-[141051](https://www.youtube.com/watch?v=n-yr2GPKK-o&t=13m47s)/[141105](https://www.youtube.com/watch?v=n-yr2GPKK-o&t=14m2s))
-    * 目前對遊藝業這地方開始的社區傳播還是蠻擔憂的，這部分會晚一點
-* :::spoiler 今天確定要再延長二級警戒了，有專家憂心說我們會不會二級警戒可能一路會延到年底，想請教指揮官對於這陣子的疫情，還有一些零星不明感染源怎麼看？ [未報] (8/21-[142121](https://www.youtube.com/watch?v=6HPWGWURH4M&t=24m7s)/[142137](https://www.youtube.com/watch?v=6HPWGWURH4M&t=24m23s))
-    * **疫情趨勢**：從整個不管從病例採檢的情況或確定病例的一個趨勢或者發病的趨勢，大家看到從高峰一直往下已經相當有一段時間，疫情在台灣算是控制的算好
-    * **陽性率**：在長期這段時間裡面的採檢 我們陽性率，現在都低到 0.01 以下，現在有時候到達 0.004~0.005 當然有的是申報時間上面都有一些差異性，但整體趨勢陽性率也非常低
-    * 所以台灣本身的疫情我相信目前來講是可以控制的情況，除了這些零星的個案我們要非常的警戒，疫調精準、即時地追蹤、匡列這些都該做 
-    * **國際疫情**：但是國外的疫情不斷地在變化，那這個世界現在是流通的，我們雖然邊境嚴管，但也沒有辦法保證說一定會沒有相關的病毒或新興的一個相關的病毒的入侵，所以提高警覺是要的。那當然有幾個因素必須要考慮，國際的疫情是不是有點趨緩，這是一個
-    * **疫苗覆蓋率**：疫苗覆蓋率與變種病毒對疫苗保護力的影響(下降的情況是怎麼樣)，這些都需要綜合去考慮的
-    * 所以維持在二級警戒的可能性是很高的。但是二級警戒範圍還滿寬的啦，有一定的指引，大家遵從的程度也高，那當然就可以讓這個正常生活恢復的多一點，這都是一些相對的考慮
-* :::spoiler 教育部日前發函說 教師應該要完成疫苗接種或者是說提供快篩陰性證明才能入校，有教師認為每週一次檢測目前也只有第一線醫護人員才這樣做，那他們想請問說，教育部把第一線醫護人員的標準套用在教師身上是否適當？ [新唐人代問] (8/23-[140806](https://www.youtube.com/watch?v=CLIKmO6KQmE&t=13m2s)/[14](https://www.youtube.com/watch?v=CLIKmO6KQmE&t=9m5s))
-    * 學校裡面因為學生大部分都還沒有打疫苗，所以他做一個比較嚴格的規定，不過我相信這不會說是一直都持續這樣的，在疫苗的涵蓋率到達一定的程度，應該就可以不用這樣做了
-* :::spoiler 某縣市規定境外移入的個案必須 PCR 採檢二次陰性才可出院，指揮中心是會要求他們不可以這樣做嗎？ 還是說也會考慮修正境外移入個案姐隔離規定？ [未報] (8/23-[140934](https://www.youtube.com/watch?v=CLIKmO6KQmE&t=14m30s)/[141002](https://www.youtube.com/watch?v=CLIKmO6KQmE&t=14m59s))
-    * 這部分其實有跟該縣市釐清，他們所謂的二次陰性其實還是用 ct 值大於 30 這樣的一個標準來發文，所以目前來講他們是擴大比照 Delta 的解隔離條件
-    * 大家知道現在如果是 Delta 的確診個案，在 7 月份公布新的解隔標準，就是要二次採檢 ct 值都大於 30，當然陰性也算是 ct 值大於 30 (二次間隔24小時以上)，就可以從醫院解除隔離治療
-    * 針對這個部分(是否擴大適用標準)，這禮拜會提至專家會議會來討論
-        * 主要考量：現在每週公布的定序結果幾乎都是 Delta 的變異株個案，所以再去等待檢驗結果，或者是說在這個定序的結果出來之前可能就有一些個案已經符合這個解隔離條件的時候，是不是會有一些這個適用範圍的一些討論
-        * 時程：在這個禮拜的專家會議會再做全國性的認定
-* :::spoiler 有從事八大行業的民眾說，已 3 個月沒有收入，有小孩要養擔心生計，希望近期疫情比較緩和的情況之下可以讓他們恢復營業，指揮中心對這方面有沒有做一個規劃？ [未報] (8/23-[141549](https://www.youtube.com/watch?v=CLIKmO6KQmE&t=20m45s)/[141829](https://www.youtube.com/watch?v=CLIKmO6KQmE&t=23m25s))
-    * 這是一個很困難的題目，在生活跟防疫之間怎麼樣取得一個平衡
-    * 那我們在疫情更穩定能夠相關的調查能夠更清楚，才會開始來考慮這一塊
-* :::spoiler 近期的疫情趨緩今天更是加零，由於 ktv 和八大行業的業者都說快撐不下去了，想請問這方面近期有可能有新指引鬆綁嗎？ [TVBS] (8/25-[141315](https://www.youtube.com/watch?v=2Wwum7YV4S4&t=17m36s)/[141348](https://www.youtube.com/watch?v=2Wwum7YV4S4&t=18m9s))
-    * 雖然我們今天看到這數目字是一個 0，當然大家都高興，不過這只是一絲的希望，那剛剛達到這樣的情況，我們要把這樣的一個成果把它維持住，所以一定要再觀察一段時間才會有進一步的放鬆
-* :::spoiler 有民眾反映他需要經常往返台灣跟國外，那每次返台的檢疫費用，其實一年下來負擔也是不小，那是不是有可能考慮，有完整打完二劑疫苗的人，回台之後就讓他們可以在家裡一人一室居家檢疫？ [自由時報] (8/25-[142437](https://www.youtube.com/watch?v=2Wwum7YV4S4&t=28m58s)/[142523](https://www.youtube.com/watch?v=2Wwum7YV4S4&t=29m44s))
-    * 當然我們都很希望能夠把檢疫的情況能夠放鬆
-    * 不過，重點是台灣在自己的保護力夠不夠，像類似像這一類的開放，都會在我們的覆蓋率比較高的情況下，才會開始來考慮
-* :::spoiler 海泳浮淺未照原計畫(8/24)開放，觀光局擬定的防疫管理措施目前指揮中心還未核准，請問防疫計畫有哪裡違反防疫或還不周全呢？ 現在已經開始相關活動會不會有疑慮？ [TVBS] (8/28-[142240](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=27m25s)/[142316](https://www.youtube.com/watch?v=tkXFxHcyIp8&t=28m1s))
-    * 並非剛才媒體所詢問的這樣，因為交通部研擬相關措施時，就把它所主管的相關，包括台鐵高鐵與旅行部分，都一併並在同一個案子裡面送審
-    * 指揮中心相關主事也已經會得差不多，應該是這兩天會儘速完成相關檢視
-* :::spoiler 停課標準 / 考慮排除不具傳染性個案(舊案)？ [未報] (8/30-[140935](https://www.youtube.com/watch?v=IN2FkcAOMpA&t=15m1s)/[141029](https://www.youtube.com/watch?v=IN2FkcAOMpA&t=15m54s))
-    * 學校停課標準不會改，那當然停課之後，可以根據後續檢驗的情況，再來判定是不是要趕快來復課
-    * ==因為 ct 值很高，是新傳染還是舊傳染的，在第一時間是沒有辦法判定的，但第一時間如果沒有先停課，等到變成一個群聚，恐怕就來不及了==
-    * 所以仍然會照著原來的規定去做，但是把案子研究清楚之後，如果確實是沒有造成學校或社區的一個威脅，及早復課是可以的
-* :::spoiler 八大行業部分，目前大概規劃會是怎麼樣一個進行? [未報] (9/3-[142859](https://www.youtube.com/watch?v=CYWF0ioNSZc&t=34m54s)/[142921](https://www.youtube.com/watch?v=CYWF0ioNSZc&t=34m16s))
-    * 經濟部未來在紓困裡，如果有延長沒有開放的情況，就有一些紓困的作為
-    * 八大本身如果施打疫苗的覆蓋率沒有到達一定的程度，我們大概也不會考慮，不過應該也是要到達 60% 會儘量地快
-    * 近來當然這一波的疫情，我們要特別的小心
-* :::spoiler 之前有說 9/7 可能開放運動場所淋浴設備與雙鐵運載恢復至八成，這樣的調整會不會受到這次機師群聚案件的影響而暫緩或延後? [八大電視] (9/4-[142129](https://www.youtube.com/watch?v=CYWF0ioNSZc&t=26m29s)/[142152](https://www.youtube.com/watch?v=CYWF0ioNSZc&t=26m52))
-    * 因為今天的篩檢結果，大概不會有影響
 :::
 
 ### 記者會 / 全國防疫會議
@@ -191,86 +116,58 @@
 * [2021.5.11~ 新聞稿列表](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H1GfZNKcd) 
 * [Memories](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/SJ6mHuq9d)
 
-#### 2021.9.5 記者會
+#### 2021.9.6 記者會
 
-* 影片連結 [1](https://www.youtube.com/watch?v=cYDlKx0B4Tw)
-* 疫情 [(9/4-140307)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=8m2s) 
-	* [2021.9.4 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/61oub4oHTSlW-_oCA1YdOQ?typeid=9) [![](https://i.imgur.com/uxxFHhW.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1972891656210576)
-	* [(9/4-140412)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=9m7s) 今天 2 例本土案例衛生單位已匡列相關接觸者 50 人列為居家隔離，另外有 49 人待風險評估後再行匡列
-	* ![](https://i.imgur.com/6yef94P.png)
-	* [(9/4-140443)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=9m38s) ![](https://i.imgur.com/GdvoHLO.jpg)
-	* [(9/5-140813)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=13m8s) +9.8萬(98,637) / 人口涵蓋率 44.18% / 劑次人口比 48.35% 
-* 二級警戒
-    * [(9/5-140847)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=13m42s) 關於取消『每三個月抗體檢驗追蹤』的補充說明
-        * 本來專家諮詢小組給指揮中心的建議是打完二劑後會驗抗體，之後每隔 3 個月繼續追蹤他們抗體的狀況
-        * 之後再經過第一次篩檢與討論以後，我們重點發現說
-            * 極少數不產生抗體的人(幾千位裡只有 7 位) => 沒有辦法當作 完整疫苗接種的檢疫隔離模式做處理 / 有沒有什麼補救方式，追加其他的疫苗或第三劑
-            * 會產生抗體的人 => (可預期)隨著時間抗體力價會慢慢地下降 追蹤意義不大 => 重點是 什麼時候需要追加第三劑疫苗的施打
-        * 專家諮詢小組的討論概念上是這樣子，==所以覺得最早期的建議(每 3 個月追蹤抗體)，其實實質的意義不是非常大，而是在後續處理以及機組員檢疫模式才是比較重要的==
-        * (9/5-[141612](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=21m7s)/[141708](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=22m2s)) 7 個沒有驗出抗體的，這個部分是不是有討論到說要加打第三劑? 這 7 個人要加打，還是說所有人都要加打第三劑?  [==報導者 :doughnut:==]
-            * 7 位打完二劑疫苗還不會產生抗體
-                * 這是我們要另外單獨特殊處理的，包括要看他原來打的疫苗是哪一種，確實是考慮要追加接種
-                * 可是這一方面要得到他們本人的同意，這是超過我們指揮中心原設定的範圍
-                * ACIP小組委員是建議是用一個比較屬於研究性質的，因為對於這些非常特殊體質的人，應該用研究的方式處理，那才比較不會跟現行疫苗注射規矩有所牴觸
-            * 其他的所有的機組員
-                * 確實不管是專家諮詢小組會議或指揮中心這邊，如果要對抗 delta 或其他的變種病毒株，他們還是要持續飛到國外去的話，在某一個適當的時間點，考慮要追加第三劑的
-            * 所以這是兩個不太一樣的情境
-    * (9/5-[141549](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=20m44s)/[141630](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=21m25s)) 昨天發了 110 萬通的簡訊，大部分集中在桃園 ，目前桃園是二級加強版的管理(50/100)，現在是否考慮要提升他的警戒或是對於舉辦活動部分做嚴格限制? [==報導者 :doughnut:==]
-        * 其實這 2 天這個疫情是比第 1 天時看起來狀況好些，那時候完全沒有相關檢驗結果，當然懷疑境外移入是不是有可能是 delta 的可能，所以加強非常高的強度，希望能夠把疫情控制住
-        * 這 2 天並沒有任何惡化的情形的指標出來，所以現在目前不會有加強的措施
+* 影片連結 [1](https://www.youtube.com/watch?v=vvYv3E6_jFk)
+* 疫情 [(9/6-140500)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=9m45s) 
+	* [2021.9.6 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/Od_A3iAG4ysQosgMWpGqSA?typeid=9) ![](https://i.imgur.com/pGppeUm.png)
+	* [(9/6-140600)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=10m46s) 新北昨天確定病例老師的幼兒園裡，有 9 例確診，今天中午才剛剛驗出來 
+	* 境外+7  
+	    * 看來比較多，最主要是有一艘輪船在高雄港進口，船上有幾位船員發燒，所以高雄緊急安排他們採檢，有 5 位確診送醫，其餘成員在船上做單獨艙房的隔離
+    * [![](https://i.imgur.com/mVmOvB2.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1974460822720326) 
+	* ![](https://i.imgur.com/QLaW4m7.png)
+	* [(9/6-142958)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=34m44s) +12.5萬 / 人口涵蓋率 44.31% / 劑次人口比 48.49% 
 * [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
-    * [(9/5-140555)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=10m50s) 國籍機師群聚 無新增
-        * ![](https://i.imgur.com/Poq4v7z.jpg)
-        * 除了學校裡 2656人採檢陰性以外，其餘一起用過教室的同學﹑同住的家人，還有相關足跡的接觸者，再匡列 224 人都是陰性，所以在學校裡看起來情況應該是可控 ![](https://i.imgur.com/0meDj56.jpg)
-        * 航空公司 14 天曾到過芝加哥的機組人員，全部都要匡列，總共匡列了 283 人 ![](https://i.imgur.com/Jsx7iGM.jpg)
-        * (9/5-[142825](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=33m20s)/[142841](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=33m36s)) 警戒措施 / 前後艙接組員是否可接觸? 目前掌握情況? [未報] 
-            * 他前艙後艙接觸主要是因為考慮換班而派了 2 倍的人，理論上如果同樣只有機師的話，應該會在前艙，但是派 2 倍的人出去要替代，避免機師過度疲勞，這種情形之下有可能會坐在後艙這種是比較少的情形
-    * [(9/5-141834)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=23m31s) 再說明一下 
-        * 這一次 3 例境外移入個案，第一例驗出是 delta、兩例沒有，但是近來境外移入個案 delta 的比例算是相當高，所以是==用 delta 可能會造成的社區感染的規來辦理==
-        * 匡列: 以前只框一定時間的密切接觸者，這一次是只要有接觸的就匡，甚至接觸者的接觸者也匡列，這都以前是沒有的
-        * 細胞簡訊: 發的時間拉得很長，從 8/13 起到 9/2 可能有的，都==把規格拉高來，所以發得比較多，但並不是收到簡訊的人就一定要去採檢，昨天也講過請大家提高警覺==，有接到警訊、有症狀、有什麼樣的感覺、會覺得心理上等等的，總是有一個可能性，沒有說好好的接到警訊，就一定要採不可，是讓大家能夠提高警覺
-* [醫療應變](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HkveZdrn_)
-    * (9/5-[141227](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=17m22s)/[141306](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=18m1s)) 警戒措施 / 檢疫期滿解隔離後，因為基因定序的結果比較慢，導致個案回家後才緊急通知是 delta 招回採檢，發現陽性，這一例的案號? 後續的防堵作法? 會不會有可能是造成這個delta疫情的一個破口? 未來會不會等到定序結果出來之後才解隔離呢? [==台視 :cake:==]
-        * 這一案是案 15425，7/14 公布，當時初判為本土，不過 7/17 因為瞭解到他有美國入境等等相關資料之後，改判為美國境外移入
-            * 7/12 = 採檢 隔天陽性 ct=25 
-            * 7/14 = 公布確診
-            * 7/22 = 陰性
-            * 7/23 = 符合解隔隔離的條件就回家
-            * 因為境外移入改判，那時檢體沒有立刻被調去做 delta，後來再補做 
-            * 8/14 = 通知衛生局個案是 delta
-            * 其實他已經是陰性解隔返家 ，後續再採檢也都符合解隔條件，所以對社區其實並沒有造成什麼比較明顯的影響
-        * 再補充另外 1 例也比較特別是案 15508，英國境外移入個案
-            * 7/15 = 入境採檢陽性
-            * 不過他一直因為定序很困難，需要等到這個病毒培養出來之後，才能夠成功地進行定序
-            * 8/10 = 完成定序確認是 delta
-        * 這二個月有這 2 例比較特別，因為一些原因，所以定序的結果比較晚才出來，這個其實就是技術上有時候有一些挑戰，我們也通過專家會議的決議，在 [9/3]((https://www.cdc.gov.tw/File/Get/vPb7wlEHRYgiClByyrf7Ww)) 已經做了修正，就是==為了避免大家在等這一個定序的結果才採取解隔的措施，所以已經**律定**所有的境外移入個案，無論知不知道 delta 都按照 delta 的解隔離條件==
-            * 必須要退燒 1 天 症狀緩解
-            * 距離發病日或採檢陽性日 10 日以上
-            * 採檢二次都是 ct 值大於30 或者是陰性
-        * ==所以境外移入個案都一律比照 delta 的解隔離方式來處理==，就不會再有類似的這樣一個問題產生
-        * [嚴重特殊傳染性肺炎確診個案處置及解除隔離治療條件-1100903修訂.pdf](https://www.cdc.gov.tw/File/Get/vPb7wlEHRYgiClByyrf7Ww) | [來源]
-        * [北市提及個案](https://www.ptt.cc/bbs/nCoV2019/M.1630842431.A.374.html)
+    * [(9/6-140657)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=11m42s) 新北幼兒園群聚 (11)
+        * +9 ![](https://i.imgur.com/iM3R9Wa.jpg)
+        * 陽性的案子可能還會更多，因為在幼兒裡密切接觸且已多人確診，也請新北照著比較嚴格的標準，一家人一家人做匡列，做居家隔離或也做預防性的居家隔離
+        * 另外這個幼兒園晚上也有做安親班，不同老師不同學生，所以也請新北市對晚上安親班的人也是一樣做居家隔離並採檢
+    * [(9/6-141008)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=14m53s) 國籍航空機師 無新增 / 定序結果 (1)(3)
+        * ![](https://i.imgur.com/467Aowo.jpg)
+        * 16066 已經是定序過的，是 delta
+        * 16119 16120 16122 也都定序完成，這也是 delta 不過他的病毒株序列並不相同，==雖然都是 delta 可是序列是有差異的==
+        * ![](https://i.imgur.com/Y95OB1j.png)
+        * ![](https://i.imgur.com/Ud2x8HC.png)
+        * 針對這 2656 位同學，雖然都是陰性，我會跟潘部長也一起再給學生家長或是同學一封信，請他們就是說一方面可以比較放心 ，但是在家裡跟家人還是儘量要保持一定的距離，也不要跑到這外面去到處跑，雖然他已經是陰性，他仍然還是有存在非常小的一個風險，那大家請千萬要注意
+        * 14 天內有到過芝加哥這個航站召回採檢  ![](https://i.imgur.com/0b6oIgk.jpg)
+* 二級警戒
+    * [(9/6-140856)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=13m41s) 
+        * ![](https://i.imgur.com/BLDubrR.jpg)
+        * 仍需要關閉的場所跟原來一樣 ![](https://i.imgur.com/GtSATU2.jpg)
+        * 調整
+            * 雙鐵沒有站票但可以坐滿
+            * 遊覽車 五成或是20人 -> 八成為上限，社交距離變短車廂內也請大家要注意戴口罩。不開放這飲食
 * [目前接種與預計開放情況](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H180Wamsd)
-    * (9/5-[142334](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=28m29s)/[142425](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=29m20s)) 疫苗 / 不同疫苗接種辦法? (國中生 HPV & covid疫苗) [未報]
-        * 目前 ACIP 會議決定 covid 疫苗跟其他疫苗至少要間隔 7 天以上
-        * covid 疫苗預定 9/23 這周開始打，規劃高中生國中生依序接種，所以跟國中的 HPV 疫苗至少會差兩個禮拜以上
-* :::spoiler 問題列表
-    1. (9/5-[143015](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=35m10s)/[143035](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=35m30s)) [==heho 健康 :ice_cream:==] 疫苗 /  有一些高血壓或是肥胖者或是有其他身體因素 被醫師告知不適合打 AZ 的民眾 想請教他們 什麼時候能夠被放入 BNT 的施打對象
-    2. (9/5-[142933](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=34m28s)/[142950](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=34m50s)) 疫苗 / 第二劑 / 某前局長的建議? [未報]
-    3. (9/5-[142925](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=34m20s)/[142942](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=34m37s)) 疫苗 / 各廠牌庫存量? [未報]
-    4. (9/5-[142825](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=33m20s)/[142841](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=33m36s)) 警戒措施 / 前後艙接組員是否可接觸? 目前掌握情況? [未報]
-    5. (9/5-[142720](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=32m15s)/[142804](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=32m59s)ㄝ[143045](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=35m40s)) 防疫量能 / 機師確診&檢疫加嚴 / 集中檢疫所? 防疫旅館? [未報]
-    7. (9/5-[142618](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=31m14s)/[142634](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=31m29s)) 警戒措施 / 中秋烤肉指引? [==華視 :cookie:==]
-    8. (9/5-[142537](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=30m32s)/[142550](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=30m45s)) 疫苗 / 接種計畫 / 今天下午要來 AZ 疫苗，第八輪也是打 AZ 嗎 何時會開打 會鎖定哪些族群? / 下一批的莫德納疫苗什麼時候會來? [中視] (這批 AZ 可能會做為第二劑來使用)
-    9. (9/5-[142526](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=30m21s)/[142644](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=31m41s)) 疫情 / 機師確診 / (不具名)醫師認為這波機師的疫情要觀察到9月18號才能解除警報? [中視]
-    10. (9/5-[142334](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=28m29s)/[142425](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=29m20s)) 疫苗 / 不同疫苗接種辦法? [未報]
-    11. (9/5-[142322](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=28m17s)/[142401](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=28m57s), [142703](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=31m58s)/[142746](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=32m41s)) 警戒措施 / 機師確診 / 接送時司機只有穿防護衣沒有戴口罩，司機不遵守規定，是不是很難控管? [未報]
-    12. (9/5-[142216](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=27m11s)/[142241](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=27m36s)) 警戒措施 / 機組員檢疫 / 機組員第三劑 [未報]
-    13. (9/5-[142000](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=24m55s)/[142036](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=25m31s)) 機師確診 / 集中檢疫所 環境髒亂有蜘蛛? 中途不能上廁所? [未報]
-    14. (9/5-[141612](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=21m7s)/[141708](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=22m2s)) 警戒措施 / 機組員檢疫 / 剛剛張教授有提到說抗體檢測有 7 個是沒有驗出抗體的，這個部分是不是有討論到說要加打第三劑? 這 7 個人要加打，還是說所有人都要加打第三劑?  [==報導者 :doughnut:==]
-    15. (9/5-[141549](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=20m44s)/[141630](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=21m25s)) 警戒措施 / 昨天發了 110 萬通的簡訊 那大部分是集中在桃園 那目前桃園是做二級的加強版的管理(室外100人 室內50人)，那現在是否考慮要提升他的警戒或是對於舉辦活動部分做嚴格限制? [==報導者 :doughnut:==]
-    16. (9/5-[141227](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=17m22s)/[141306](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=18m1s)) 醫療應變 / 檢疫期滿解隔離後，緊急通知是 delta 才招回採檢，發現陽性，這一例的案號? 後續的防堵作法? 會不會有可能是造成這個delta疫情的一個破口? 未來會不會等到定序結果出來之後才解隔離呢? [==台視 :cake:==]
-    19. [[摘要] 0905 指揮中心記者會 (laptic)](https://www.ptt.cc/bbs/nCoV2019/M.1630856193.A.8E9.html)
+    * [(9/6-141341)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=18m26s) ![](https://i.imgur.com/m64gPdJ.jpg)
+    * [(9/6-141411)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=18m56s)
+        * 這 2 天 AZ 疫苗持續的到貨，所以除了第七期本來就規劃好以外，第八期的 AZ 也開放預約，最主要是提供第二劑(滿 10 週以上)，另外 7/19 前已經意願登記選擇 AZ 18~22 歲的民眾
+    *  ![](https://i.imgur.com/wLRXDKk.jpg)
+    * [(9/6-141549)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=20m35s) 學生接種 BNT 疫苗
+    * ![](https://i.imgur.com/97lZOn3.jpg)
+    * 全國大概有 125 萬 / 這個年齡層的 可能在相關不同機構學校就讀的(或沒有學籍)都涵蓋進來 ![對象](https://i.imgur.com/JhOMXS0.jpg)
+    * ![](https://i.imgur.com/x1m9Ux8.jpg)
+    * [致家長的一封信](https://ws.moe.edu.tw/Download.ashx?u=C099358C81D4876C725695F2070B467E8B81ED614D7AF43ECFE450B6D83B2400DF1A32BC113CA566DB738B4469E14D35E4A31C43AA7FE333E7308A452C8234EFDFF20E8F7CFBFA1BFDBE4629D684BE99&n=C2B44DAD6DA63E41BA456C82B6EEF27BF6610CB644827285EE5584BD8F9956DEE1186E87E46AD801&icon=..pdf) | [出處](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=EBE34BF723111593)
+    * ![](https://i.imgur.com/iWKKtou.jpg)
+    * ==另外，沒有學籍這一部分就會請他們到這個預約平台登記，完成預約之後就到醫療院所來接種 / 這個也拜託各位媒體朋友，針對這一部分也能夠多加的呼籲，因為這一部分是比較不容易直接聯繫上== [COVID-19 疫苗校園接種作業](https://www.cdc.gov.tw/Category/MPage/zTmGOfQem6Qo6BSynQdJQw) (須知與意願書)
+    * 符合這個年齡層的青少年，希望能夠全面性的，只要有意願接種疫苗，都能夠得到這個專案上的協助
+    * 接種方式(1) ![](https://i.imgur.com/ITqsSF9.jpg)
+    * 接種方式(2) ![](https://i.imgur.com/GykTDAg.jpg)
+    * 接種方式(3)  ![](https://i.imgur.com/ng9y6MP.jpg)
+    * ![](https://i.imgur.com/vJRLlrN.jpg)
+    * 不過還強調，雖然是在校園集中接種，但是沒有強迫，要根據家長判斷跟學生意願來做一個決定，第二，在施打的時候大家也不要太緊張，儘量要通風良好免得暈針
+* (9/6-143012) 38 min
+* :::spoiler 問題列表 TBD
+    1. (9/6-[14](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=35m10s)/[14](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=35m30s)) [未報] 
 
 
 #### 呼籲全國民眾
