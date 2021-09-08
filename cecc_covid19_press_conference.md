@@ -1,12 +1,13 @@
 # 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會紀錄
 ###### tags: `COVID-2019` `武漢肺炎` `Taiwan`
 
+![](https://i.imgur.com/KKkxPmB.jpg)
 
 ![](https://i.imgur.com/95OcK41.jpg)
 
 ## 疫情警戒標準 全國二級 心頭掠予定 (~9/20) 桃園加強警戒 (~9/9)
 
-(更新至 9/6)
+(更新至 9/7)
 
 ### 現行管制 二級延長 7/27 ~ 9/20
 
@@ -17,10 +18,9 @@
 
 <br>
 
+**需要關閉的場所跟原來一樣**
 
 ![](https://i.imgur.com/GtSATU2.jpg)
-
-**需要關閉的場所跟原來一樣**
 
 **調整**
 
@@ -29,7 +29,8 @@
 
 #### 縣市
 
-![](https://i.imgur.com/P34CB4N.jpg)
+* ==新北市== [(9/7-140334)](https://www.youtube.com/watch?v=d1Foymx53HQ&t=8m24s) 因應這樣情況，新北市也採取一些相關措施，基本上是加強的二級，跟桃園的管理方式兩邊是一樣，不過對小學這邊也擴大預防性的停課，各種疫調跟檢驗持續在進行中 [市府資訊](https://www.facebook.com/myntpc/posts/4936784456338894)
+* ==桃園市== ![](https://i.imgur.com/P34CB4N.jpg)
 
 #### 指引調整/提醒
 
@@ -105,10 +106,6 @@
 
 :::success
 
-[![](https://i.imgur.com/IjXwDDB.jpg)](https://www.facebook.com/mohw.gov.tw/videos/218145966931715)
-
-<br>
-
 * [COVID-19 公費疫苗接種意願登記](https://1922.gov.tw/vas/) (7/6-093554) |  [:uk: :flag-id: :flag-vn: :flag-th:](https://fw.wda.gov.tw/wda-employer/home/covid?locale=en)  
 * [COVID-19疫苗日報表](https://www.cdc.gov.tw/Category/Page/9jFXNbCe-sFK9EImRRi2Og)
 * [疫情警戒標準 預計與過去](https://hackmd.io/R_7zh0YkQ7upVxLIbT5VMw)
@@ -116,63 +113,121 @@
 * [2021.5.11~ 新聞稿列表](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H1GfZNKcd) 
 * [Memories](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/SJ6mHuq9d)
 
+#### 2021.9.7 記者會
+
+* 影片連結 [1](https://www.youtube.com/watch?v=d1Foymx53HQ)
+* 疫情 [(9/7-140147)](https://www.youtube.com/watch?v=d1Foymx53HQ&t=6m37s) 
+	* [2021.9.7 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/Od_A3iAG4ysQosgMWpGqSA?typeid=9) [![](https://i.imgur.com/72enxEw.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1975300482636360) 
+	* 境外 +4 ![](https://i.imgur.com/OfKU6Q2.png)
+	* [(9/7-140407)](https://www.youtube.com/watch?v=d1Foymx53HQ&t=8m57s) ![](https://i.imgur.com/KKkxPmB.jpg)
+	* [(9/7-140648)](https://www.youtube.com/watch?v=d1Foymx53HQ&t=11m38s) +6.7萬 / 人口涵蓋率 44.6% / 劑次人口比 48.81% / 其中比較特殊是昨天高端打了15,171 劑，目前==可打到 9/11 (免預約)==
+* [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
+    * 新北幼兒園群聚 +5 (16)
+        * [(9/7-140242)](https://www.youtube.com/watch?v=d1Foymx53HQ&t=7m31s) 家長(3), 幼兒園小朋友(1), 幼兒園小朋友的妹妹(1)
+        * [(9/7-140334)](https://www.youtube.com/watch?v=d1Foymx53HQ&t=8m24s) 因應這樣情況，新北市也採取一些相關措施，基本上是加強的二級，跟桃園的管理方式兩邊是一樣，不過對小學這邊也擴大預防性的停課，各種疫調跟檢驗持續在進行中
+        * [(9/7-140442)](https://www.youtube.com/watch?v=d1Foymx53HQ&t=9m32s) ![](https://i.imgur.com/wGmOC6e.jpg)
+        * (9/7-[140749](https://www.youtube.com/watch?v=d1Foymx53HQ&t=12m39s)/[140802](https://www.youtube.com/watch?v=d1Foymx53HQ&t=12m52s)) 什麼樣狀況下可能會評估把疫情升為三級? 相關警戒措施是否需要調整?(雙鐵﹑中秋假期) [==三立 :chocolate_bar:==, ==東森 :candy:==, 未報]
+            * 目前還沒有要升級，當然新北的疫情如果沒有控制住是有這樣的考慮，不過這都是假設的情況，目前重要的是把疫調跟匡列做好
+            * (9/7-[140859](https://www.youtube.com/watch?v=d1Foymx53HQ&t=13m49s)) 目前幼兒園確實確診人數是比較多，不過大家也大概記得，大概 10 天左右，新北市有曾經有一天 13 例的家族群聚，==問題是在這個群聚裡面是不是能夠不要外擴，能夠控制在一定的範圍，這才是我們所關心的==
+            * 那至於以前這樣一個標準，是一個參考值，也會看看情況來作為參考
+            * (9/7-[142703](https://www.youtube.com/watch?v=d1Foymx53HQ&t=31m53s)) ==現在的情況就是在研判跟觀察跟積極地疫調，(等)這些資料出來才有辦法做比較正確的研判==
+        * (9/7-[141120](https://www.youtube.com/watch?v=d1Foymx53HQ&t=16m10s)/[141208](https://www.youtube.com/watch?v=d1Foymx53HQ&t=16m58s)) 假設基因定序結果是 delta 的話，有沒有可能會去開新的幼兒園的防疫指引? / 驗血清抗體釐清感染源? [未報] 
+            * 相關的評估是一定要進行的 那血清抗體檢驗也有展開，比較完整的時候再跟大家做報告 / 對象? 覺得有必要的就會驗 ，現在大概驗了 7 8 位
+            * ==病毒基因定序明天才能夠比較完整的出來，不過都指向是 delta 或者是其他的變異株==
+            * (9/7-[142552](https://www.youtube.com/watch?v=d1Foymx53HQ&t=30m42s)) [==三立 :chocolate_bar:==] 但不是 Alpha 幾乎是已經確定了
+        * (9/7-[141619](https://www.youtube.com/watch?v=d1Foymx53HQ&t=21m9s)/[141633](https://www.youtube.com/watch?v=d1Foymx53HQ&t=21m23s)) 疫情 / 幼兒園 / 與機師案間有掌握什麼可能關聯性的線索嗎? [==自由時報 :birthday:==] 
+            * 都在北部，這樣的一個推測稍微早了一點，目前來講都沒有直接的關聯
+            * 不過當然各種線索都會去連結然後去思考
+        * (9/7-[142050](https://www.youtube.com/watch?v=d1Foymx53HQ&t=25m40s)/[142145](https://www.youtube.com/watch?v=d1Foymx53HQ&t=26m35s)) 目前小朋友的症狀怎麼樣? 這麼小的小朋友染疫，對於他們未來的身體傷害，我們有沒有評估就是比大人輕微嗎? 還是會比較嚴重? [未報]
+            * 目前的調查有 6 位是有這個發燒﹑流鼻水﹑喉嚨痛等等這些症狀，不是每個都會有所有這三個症狀，也有的小朋友只有咳嗽而已，目前都是輕症
+            * 都是跟一位家人二人一室住在專責病房當中，因為是小朋友需要有人照顧。醫療團隊有兒科﹑感染科一起在照顧，會特別注意他們的一些狀況
+            * 從報告來看小朋友得到新冠即使是 Delta 發生重症的機率都還是低於成人，所以我想大家也不要給他們太多的一個壓力，醫療團隊都很專業會針對他們的情形來仔細地監控
+    * [(9/7-140517)](https://www.youtube.com/watch?v=d1Foymx53HQ&t=10m7s) 國籍航空機師(3)
+        * ![](https://i.imgur.com/KRsxebr.jpg)
+        * ![](https://i.imgur.com/Vy4VhWh.png)
+        * ![](https://i.imgur.com/ASRSmiM.jpg)
+* [各類問題](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HyQwwNzhu)
+    * (9/7-[143053](https://www.youtube.com/watch?v=d1Foymx53HQ&t=35m43s)/[143113](https://www.youtube.com/watch?v=d1Foymx53HQ&t=36m3s), [143227](https://www.youtube.com/watch?v=d1Foymx53HQ&t=37m17s)) 特定資訊公布相關 [未報]
+        * 大家會關心學校﹑地點﹑名稱，其實會有影響的學校，學校的學童會不會影響到人，家長一定會知道，因為學校就會通知家長，有各種停課怎麼樣的一個措施
+        * 只是有些其他學校會認為說，好像沒有這樣的一個訊息，那到底是不是在我們的學校裡面?
+        * 所以跟大家報告說，如果在這個學校裡面有確診的個案，那學校的家長跟老師一定會知道這個事情，這樣大家可以比較安心
+        * 但至於報導哪一個學校，其實還是會有一點點這些污名化的問題，所以還是要謹慎
+        * 所以我再強調，學校如果有確診他一定會開始進行班級的一個停課或者學校的一些清消，所以有影響到的學生跟家長都會知道這個事情
+* [疫苗資訊](https://hackmd.io/Rl4fM4FpQwqUgBPVhV5D7A)
+    * (9/7-[141546](https://www.youtube.com/watch?v=d1Foymx53HQ&t=20m36s)/[141715](https://www.youtube.com/watch?v=d1Foymx53HQ&t=22m4s)) 聯亞 / 第三劑臨床試驗，發現綜合抗體效價大增到 4000 多(102-->4000)，可能重審 EUA 嗎? [==自由時報 :birthday:==]
+        * 我想這一部分就留給專家去探討
+    * (9/7-[142115](https://www.youtube.com/watch?v=d1Foymx53HQ&t=26m5s)/[142245](https://www.youtube.com/watch?v=d1Foymx53HQ&t275m35s)) 希望可以加快 BNT 的檢驗跟接種，我們有可能來評估把日期再往前拉嗎? [未報]
+        * 基本上跟大家報告，大概這個 mRNA 的疫苗檢驗需要 14天，大家一定會問說﹔那為什麼莫德納的時候都 7 天? 因為他早了大概 10 天左右，把標準品就已經寄過來 那我們可以先把相關的數字先建立好
+        * 這次 BNT 標準品來得比較晚，所以那時候開始建立相關值再驗，這一部分我們從來都不馬虎，這個檢驗是一定要把它做好，我們相信它不會有問題，但是步驟是不能少
+        * 這批之後，可能就可以在大概 7~8 天，不過再加上解凍可能那時間都會稍微長一點
+* [目前接種與預計開放情況](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H180Wamsd)
+    * (9/7-[142341](https://www.youtube.com/watch?v=d1Foymx53HQ&t=28m31s)/[142406](https://www.youtube.com/watch?v=d1Foymx53HQ&t=28m56s), [142522](https://www.youtube.com/watch?v=d1Foymx53HQ&t=30m12s)) 學生接種 BNT / 如果這一波學生沒有打到的話(觀望或剛好當時不適合)，之後還有機會再打嗎? 他的優先順序會怎麼排? [==heho 健康 :honey_pot:==]
+        * 第一波意願登記，有人想早一點打，有人想晚一點打，我們都尊重，但還是要照著期程，第一波安排了，接下來就會開放其他年齡層，當然走過一波之後還會再開
+        * 比較有可能的機會是，這波學生要打第二劑的時候，會連要打第一劑的人一起開放
+        * 所以要等 10 週? 對，那時候要看整體疫苗到貨跟規劃，不過因為都在學校裡來進行，所以基本上你第一波沒有打，就跟著在第二波打
+    * (9/7-[142813](https://www.youtube.com/watch?v=d1Foymx53HQ&t=33m3s)/[142903](https://www.youtube.com/watch?v=d1Foymx53HQ&t=33m53s)) 船員(第三類)時間較難配合 1922 預約平台，導致現在其實有不少的船員都遲遲沒有接種疫苗，所以想問一下說，這個部分會怎麼處理? 因為也有提到 8 月中旬時有行文 CDC 但到目前為止還沒有收到回覆 [==自由時報 :birthday:==] 
+        * 對，確實，你指的是遠洋的漁船? 遠洋漁船是可以考慮如果符合 1922 預約平台(預約資格?)，可以另外從這裡面先提供一些，就像在提供給出國的要打第二劑一樣，因為時間上的困難，所以可以另外再做安排，但是必須符合已經可以打﹑有那樣的資格的人，那我們就會來做安排
+    * (9/7-[143021](https://www.youtube.com/watch?v=d1Foymx53HQ&t=35m11s)/[143037](https://www.youtube.com/watch?v=d1Foymx53HQ&t=35m27s)) 第二劑 / 因為現在沒有要提升前面風險族群的第二劑，但會有其他的措施嗎? 比方說在可能養老院或是一些重症率比較高的院所，就是去定期的篩檢嗎? 有沒有什麼樣子的措施? [未報]
+        * 這個住宿型機構等等這些，已經在這次 AZ 打第二劑的範圍之內了
+* :::spoiler 問題列表 
+    1. (9/7-[143336](https://www.youtube.com/watch?v=d1Foymx53HQ&t=38m26s)/[143347](https://www.youtube.com/watch?v=d1Foymx53HQ&t=38m37s)) 疫情 / 台大現在手術室有關閉，想問說是不是台大的麻醉師可能跟幼兒園案子有相關?  [==東森 :candy:==] 
+    2. (9/7-[143053](https://www.youtube.com/watch?v=d1Foymx53HQ&t=35m43s)/[143113](https://www.youtube.com/watch?v=d1Foymx53HQ&t=36m3s), [143227](https://www.youtube.com/watch?v=d1Foymx53HQ&t=37m17s)) 各類問題 / 特定資訊公布相關 [未報]
+    3. (9/7-[143021](https://www.youtube.com/watch?v=d1Foymx53HQ&t=35m11s)/[143037](https://www.youtube.com/watch?v=d1Foymx53HQ&t=35m27s)) 疫苗 / 第二劑 / 因為現在沒有要提升前面風險族群的第二劑，但會有其他的措施嗎? 比方說在可能養老院或是一些重症率比較高的院所，就是去定期的篩檢嗎? 有沒有什麼樣子的措施? [未報] 
+    4. (9/7-[142813](https://www.youtube.com/watch?v=d1Foymx53HQ&t=33m3s)/[142903](https://www.youtube.com/watch?v=d1Foymx53HQ&t=33m53s)) 疫苗 / 船員(第三類)時間較難配合 1922 預約平台，導致現在其實有不少的船員都遲遲沒有接種疫苗，所以想問一下說，這個部分會怎麼處理? 因為也有提到 8 月中旬時有行文 CDC但到目前為止還沒有收到回覆 [==自由時報 :birthday:==] 
+    5. (9/7-[142647](https://www.youtube.com/watch?v=d1Foymx53HQ&t=31m37s)/[142740](https://www.youtube.com/watch?v=d1Foymx53HQ&t=32m29s)) 疫情 / 中和 / 院內群聚的跡象? 接觸匡列的狀況? (目前還是不明感染/是因為陪病所以篩檢出來的，所以並不是說有醫院群聚) [未報]
+    6. (9/7-[142341](https://www.youtube.com/watch?v=d1Foymx53HQ&t=28m31s)/[142406](https://www.youtube.com/watch?v=d1Foymx53HQ&t=28m56s), [142522](https://www.youtube.com/watch?v=d1Foymx53HQ&t=30m12s)) 疫苗 / 學生接種 BNT / 如果這一波學生沒有打到的話(觀望或剛好當時不適合)，之後還有機會再打嗎? 他的優先順序會怎麼排? [==heho 健康 :honey_pot:==] 
+    7. (9/7-[142115](https://www.youtube.com/watch?v=d1Foymx53HQ&t=26m5s)/[142245](https://www.youtube.com/watch?v=d1Foymx53HQ&t=27m35s)) 疫苗 / BNT / 希望可以加快BNT的檢驗跟接種，我們有可能來評估把日期再往前拉嗎? [未報] 
+    8. (9/7-[142050](https://www.youtube.com/watch?v=d1Foymx53HQ&t=25m40s)/[142145](https://www.youtube.com/watch?v=d1Foymx53HQ&t=26m35s)) 疫情 / 幼兒園 / 目前小朋友的症狀怎麼樣? 這麼小的小朋友染疫，對於說他們未來的身體傷害，我們有沒有評估就是比大人輕微嗎? 還是會比較嚴重? [未報] 
+    9. (9/7-[141821](https://www.youtube.com/watch?v=d1Foymx53HQ&t=23m11s)/[141859](https://www.youtube.com/watch?v=d1Foymx53HQ&t=23m49s)) 疫情 / 幼兒園 / 幼兒園群聚的感染源 ct 值有高有低，但是我們稍早在問了專家之後，他們說因為現在病毒比較難在幼童的身上去繁殖，所以看 ct 值來判定他們的感染時間不準確，那小孩的 ct 值又代表什麼樣的意義，可不可以幫我們說明一下? [未報] 
+    10. (9/7-[141728](https://www.youtube.com/watch?v=d1Foymx53HQ&t=22m18s)/[141746](https://www.youtube.com/watch?v=d1Foymx53HQ&t=22m36s)) 疫情 / 幼兒園 / 如果是 delta / 已入侵社區蠻久了，警戒升級機率比較高? [未報] 
+    11. (9/7-[141619](https://www.youtube.com/watch?v=d1Foymx53HQ&t=21m9s)/[141633](https://www.youtube.com/watch?v=d1Foymx53HQ&t=21m23s)) 疫情 / 幼兒園 / 與機師案間有掌握什麼可能關聯性的線索嗎? [==自由時報 :birthday:==] 
+    12. (9/7-[141546](https://www.youtube.com/watch?v=d1Foymx53HQ&t=20m36s)/[141715](https://www.youtube.com/watch?v=d1Foymx53HQ&t=22m4s)) 疫苗 / 聯亞 / 第三劑臨床試驗，發現綜合抗體效價大增到 4000 多(102-->4000)，可能重審 EUA 嗎? [==自由時報 :birthday:==] 
+    13. (9/7-[141353](https://www.youtube.com/watch?v=d1Foymx53HQ&t=18m43s)/[141942](https://www.youtube.com/watch?v=d1Foymx53HQ&t=24m32s)) 疫苗 / 幼兒與小學生 / 現在沒有疫苗可以打 那這些，尤其是這些幼兒園，學生又不斷的傳染下去，到底有沒有什麼樣的防堵措施? 會建議他們先打流感疫苗嗎? (不過打流感疫苗跟COVID-19 的控制基本上是沒有很大的關係) [未報]
+    14. (9/7-[141335](https://www.youtube.com/watch?v=d1Foymx53HQ&t=18m25s)/[141427](https://www.youtube.com/watch?v=d1Foymx53HQ&t=19m17s)) 各類問題 / 臨時停課 指揮中心或者是教育部 會不會有什麼樣的SOP? [未報]
+    15. (9/7-[141319](https://www.youtube.com/watch?v=d1Foymx53HQ&t=18m8s)/[141531](https://www.youtube.com/watch?v=d1Foymx53HQ&t=20m21s)) 疫情 / 幼兒園 / 目前從幼兒園的 ct 值中可以看出來大概是幾波感染了嗎? (現在去預測那個太早，等疫調與序列完整再做分析) [未報] 
+    16. (9/7-[141120](https://www.youtube.com/watch?v=d1Foymx53HQ&t=16m10s)/[141208](https://www.youtube.com/watch?v=d1Foymx53HQ&t=16m58s)) 疫情 / 幼兒園 / 假設基因定序結果是 delta 的話，有沒有可能會去開新的幼兒園的防疫指引? / 驗血清抗體釐清感染源? / 老師家長打疫苗? [未報] 
+    17. (9/7-[140952](https://www.youtube.com/watch?v=d1Foymx53HQ&t=14m41s)/[141009](https://www.youtube.com/watch?v=d1Foymx53HQ&t=14m59s)) 疫情 / 幼兒園 / 與 727 開放幼兒園關聯性? [==華視 :cake:==] 
+    18. (9/7-[140859](https://www.youtube.com/watch?v=d1Foymx53HQ&t=13m49s)/[140909](https://www.youtube.com/watch?v=d1Foymx53HQ&t=13m59s)) 警戒措施 / 幼兒園 / 雙鐵相關開放措施會因目前疫情更改嗎? [==東森 :candy:==]
+    19. (9/7-[140838](https://www.youtube.com/watch?v=d1Foymx53HQ&t=13m28s)/[14](https://www.youtube.com/watch?v=d1Foymx53HQ&t=35m30s)) 警戒措施 / 升級的標準還是一樣嗎? [==東森 :candy:==]
+    20. (9/7-[140749](https://www.youtube.com/watch?v=d1Foymx53HQ&t=12m39s)/[140802](https://www.youtube.com/watch?v=d1Foymx53HQ&t=12m52s)) 疫情 / 什麼樣狀況下可能會評估把疫情升為三級? [==三立 :chocolate_bar:==]
+    21. (9/7-[140728](https://www.youtube.com/watch?v=d1Foymx53HQ&t=12m18s)/[140818](https://www.youtube.com/watch?v=d1Foymx53HQ&t=13m8s)) 疫情 / 醫院麻醉醫師是否確診? (ct = 38, 36) [==三立 :chocolate_bar:==] 
+    22. [[摘要] 0907 指揮中心記者會 (laptic)](https://www.ptt.cc/bbs/nCoV2019/M.1631019011.A.505.html)
+
 #### 2021.9.6 記者會
 
-* 影片連結 [1](https://www.youtube.com/watch?v=vvYv3E6_jFk)
-* 疫情 [(9/6-140500)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=9m45s) 
-	* [2021.9.6 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/Od_A3iAG4ysQosgMWpGqSA?typeid=9) ![](https://i.imgur.com/pGppeUm.png)
-	* [(9/6-140600)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=10m46s) 新北昨天確定病例老師的幼兒園裡，有 9 例確診，今天中午才剛剛驗出來 
-	* 境外+7  
-	    * 看來比較多，最主要是有一艘輪船在高雄港進口，船上有幾位船員發燒，所以高雄緊急安排他們採檢，有 5 位確診送醫，其餘成員在船上做單獨艙房的隔離
-    * [![](https://i.imgur.com/mVmOvB2.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1974460822720326) 
-	* ![](https://i.imgur.com/QLaW4m7.png)
-	* [(9/6-142958)](https://www.youtube.com/watch?v=cYDlKx0B4Tw&t=34m44s) +12.5萬 / 人口涵蓋率 44.31% / 劑次人口比 48.49% 
-* [疫情發展](https://hackmd.io/dte1pnA5Try384tuHNKoIQ)
-    * [(9/6-140657)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=11m42s) 新北幼兒園群聚 (11)
-        * +9 ![](https://i.imgur.com/iM3R9Wa.jpg)
-        * 陽性的案子可能還會更多，因為在幼兒裡密切接觸且已多人確診，也請新北照著比較嚴格的標準，一家人一家人做匡列，做居家隔離或也做預防性的居家隔離
-        * 另外這個幼兒園晚上也有做安親班，不同老師不同學生，所以也請新北市對晚上安親班的人也是一樣做居家隔離並採檢
-    * [(9/6-141008)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=14m53s) 國籍航空機師 無新增 / 定序結果 (1)(3)
-        * ![](https://i.imgur.com/467Aowo.jpg)
-        * 16066 已經是定序過的，是 delta
-        * 16119 16120 16122 也都定序完成，這也是 delta 不過他的病毒株序列並不相同，==雖然都是 delta 可是序列是有差異的==
-        * ![](https://i.imgur.com/Y95OB1j.png)
-        * ![](https://i.imgur.com/Ud2x8HC.png)
-        * 針對這 2656 位同學，雖然都是陰性，我會跟潘部長也一起再給學生家長或是同學一封信，請他們就是說一方面可以比較放心 ，但是在家裡跟家人還是儘量要保持一定的距離，也不要跑到這外面去到處跑，雖然他已經是陰性，他仍然還是有存在非常小的一個風險，那大家請千萬要注意
-        * 14 天內有到過芝加哥這個航站召回採檢  ![](https://i.imgur.com/0b6oIgk.jpg)
-* 二級警戒
-    * [(9/6-140856)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=13m41s) 
-        * ![](https://i.imgur.com/BLDubrR.jpg)
-        * 仍需要關閉的場所跟原來一樣 ![](https://i.imgur.com/GtSATU2.jpg)
-        * 調整
-            * 雙鐵沒有站票但可以坐滿
-            * 遊覽車 五成或是20人 -> 八成為上限，社交距離變短車廂內也請大家要注意戴口罩。不開放這飲食
-* [目前接種與預計開放情況](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H180Wamsd)
-    * [(9/6-141341)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=18m26s) ![](https://i.imgur.com/m64gPdJ.jpg)
-    * [(9/6-141411)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=18m56s)
-        * 這 2 天 AZ 疫苗持續的到貨，所以除了第七期本來就規劃好以外，第八期的 AZ 也開放預約，最主要是提供第二劑(滿 10 週以上)，另外 7/19 前已經意願登記選擇 AZ 18~22 歲的民眾
-    *  ![](https://i.imgur.com/wLRXDKk.jpg)
-    * [(9/6-141549)](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=20m35s) 學生接種 BNT 疫苗
-    * ![](https://i.imgur.com/97lZOn3.jpg)
-    * 全國大概有 125 萬 / 這個年齡層的 可能在相關不同機構學校就讀的(或沒有學籍)都涵蓋進來 ![對象](https://i.imgur.com/JhOMXS0.jpg)
-    * ![](https://i.imgur.com/x1m9Ux8.jpg)
-    * [致家長的一封信](https://ws.moe.edu.tw/Download.ashx?u=C099358C81D4876C725695F2070B467E8B81ED614D7AF43ECFE450B6D83B2400DF1A32BC113CA566DB738B4469E14D35E4A31C43AA7FE333E7308A452C8234EFDFF20E8F7CFBFA1BFDBE4629D684BE99&n=C2B44DAD6DA63E41BA456C82B6EEF27BF6610CB644827285EE5584BD8F9956DEE1186E87E46AD801&icon=..pdf) | [出處](https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=EBE34BF723111593)
-    * ![](https://i.imgur.com/iWKKtou.jpg)
-    * ==另外，沒有學籍這一部分就會請他們到這個預約平台登記，完成預約之後就到醫療院所來接種 / 這個也拜託各位媒體朋友，針對這一部分也能夠多加的呼籲，因為這一部分是比較不容易直接聯繫上== [COVID-19 疫苗校園接種作業](https://www.cdc.gov.tw/Category/MPage/zTmGOfQem6Qo6BSynQdJQw) (須知與意願書)
-    * 符合這個年齡層的青少年，希望能夠全面性的，只要有意願接種疫苗，都能夠得到這個專案上的協助
-    * 接種方式(1) ![](https://i.imgur.com/ITqsSF9.jpg)
-    * 接種方式(2) ![](https://i.imgur.com/GykTDAg.jpg)
-    * 接種方式(3)  ![](https://i.imgur.com/ng9y6MP.jpg)
-    * ![](https://i.imgur.com/vJRLlrN.jpg)
-    * 不過還強調，雖然是在校園集中接種，但是沒有強迫，要根據家長判斷跟學生意願來做一個決定，第二，在施打的時候大家也不要太緊張，儘量要通風良好免得暈針
-* (9/6-143012) 38 min
-* :::spoiler 問題列表 TBD
-    1. (9/6-[14](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=35m10s)/[14](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=35m30s)) [未報] 
+* [簡訊實聯制 - 民眾資料調閱紀錄查詢服務](https://sms.1922.gov.tw/)
+* :::spoiler 問題列表 20min TBD
+    1. (9/6-[144834](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=53m19s)) 疫情 / 機師確診(delta) / 懲處罰則? [未報]
+    3. (9/6-[144816](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=53m1s)/[144851](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=53m36s)) 疫苗 / 注射方式與副作用 [未報] TBD
+    4. (9/6-[144752](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=52m37s)/[144810](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=52m55s)) 疫苗 / 機師第三劑  [鏡新聞]
+    5. (9/6-[144722](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=52m7s)/[144740](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=52m25s)) 治療 / 藥物準備? [三立] TBD
+    6. (9/6-[144530](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=50m16s)/[144558](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=50m42s)) 疫苗 / 不良反應與死亡通報 [未報]
+    7. (9/6-[144515](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=50m)/[144536](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=50m21s), [144713](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=51m58s)) 疫苗 / 第八期 / 人數 [未報]
+    8. (9/6-[144404](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=48m49s)/[144424](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=49m9s)) 疫情 / 機師確診(delta) / 110 簡訊 [未報] TBD
+    9. (9/6-[144350](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=48m35s)) 疫苗 / 第三劑 / 冬天前 [中視]
+    10. (9/6-[144259](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=47m43s)/[144312](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=47m57s)) [未報]
+    11. (9/6-[143942](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=44m27s)/[143959](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=44m43s)) 疫情 / 幼兒園 [華視] TBD
+    12. (9/6-[143636](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=41m21s)/[143652](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=41m37s)) 其他 / 教育 / 停課，補課? [未報]
+    13. (9/6-[143559](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=40m44s)/[143750](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=42m35s)) [簡訊實聯制 - 民眾資料調閱紀錄查詢服務](https://sms.1922.gov.tw/) 目的? 細胞簡訊? [未報] TBD
+    14. (9/6-[143459](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=39m44s)/[143516](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=40m2s)) 疫情 / 機師確診(delta) / 是否需要匡列再擴大? 二採? [中視]
+    15. (9/6-[143440](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=39m24s)/[143545](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=40m30s)) 疫情 / 機師確診(delta) / 機組員檢疫措施失敗? [中視]
+    16. (9/6-[143356](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=38m42s)/[143422](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=39m7s)) 疫情 / 機師確診(delta) [未報]
+    17. (9/6-[143243](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=37m28s)/[143303](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=38m15s)) 疫情 / 機師確診(delta) / 第三劑 [未報]
+    18. (9/6-[143219](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=37m4s)/[143330](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=38m15s)) [未報]
+    19. (9/6-[143023](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=35m8s)/[143045](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=35m30s), [143133](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=36m18s)) 疫情 / 境外 / 高雄港 輪船相關 [未報] TBD
+    20. (9/6-[143014](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=35m)/[143116](https://www.youtube.com/watch?v=vvYv3E6_jFk&t=36m1s)) [未報]
+    21. [[摘要] 0906 指揮中心記者會 (laptic)](https://www.ptt.cc/bbs/nCoV2019/M.1630993816.A.D7E.html) 
 
 
 #### 呼籲全國民眾
 
 ![](https://i.imgur.com/4IqQFYL.jpg)
+
+<br>
+
+[![](https://i.imgur.com/IjXwDDB.jpg)](https://www.facebook.com/mohw.gov.tw/videos/218145966931715)
+
+
 
 #### 
 
@@ -258,6 +313,7 @@
 	* 比對工具 = [武漢肺炎歷史軌跡比對](https://yjlou.github.io/2019-nCov/?fbclid=IwAR1ETqcTgcHJe_kLFKGyZqBuKCPFCX8j3XD-w_npO5-K6Uek676YjXPbGPU) (取得自己**過去兩週**的足跡資料 / 每筆足跡可從資料集中查證資料來源)
 * (6/3-144400) 規劃洗腎患者每週快篩 陪病者一樣或不進入洗腎中心
 * (6/11-141257) [醫護人員入住優惠方案](https://taiwan.taiwanstay.net.tw/covhotel/cov_medical/)
+* (9/6) [簡訊實聯制 - 民眾資料調閱紀錄查詢服務](https://sms.1922.gov.tw/)
 * [假訊息查證管道](https://www.cdc.gov.tw/Category/Page/HmbK99U-idbUnzFejZ6p_g)
 * :::spoiler 紓困相關
     * (6/3) - [行政院公布「紓困4.0」方案  蘇揆：全國一心、守住疫情、紓解困境](https://www.ey.gov.tw/Page/9277F759E41CCD91/c72437bf-5e98-4af4-a535-f2a6c57420fd)
@@ -1040,12 +1096,11 @@
 
 ![斯洛伐克](https://i.imgur.com/HLX9app.jpg)
 
-
 ![捷克](https://i.imgur.com/GRzntTL.jpg)
 
-![](https://i.imgur.com/2KmDDAf.jpg)
+![波蘭](https://i.imgur.com/95OcK41.jpg)
 
-![](https://i.imgur.com/95OcK41.jpg)
+![日本4](https://i.imgur.com/KKkxPmB.jpg)
 
 [![](https://i.imgur.com/8dpQ21H.jpg)](https://www.facebook.com/AIT.Social.Media/posts/10159197024013490)
 
