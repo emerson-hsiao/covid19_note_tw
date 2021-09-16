@@ -5,7 +5,7 @@
 
 ## 疫情警戒標準 全國二級 心頭掠予定 (~9/20) 
 
-(更新至 9/14)
+(更新至 9/15)
 
 
 ### 現行管制 二級延長 7/27 ~ 9/20
@@ -36,6 +36,8 @@
 * [(9/13-140427)](https://www.youtube.com/watch?v=NRu-zizySKQ&t=9m49s) 
     * ![](https://i.imgur.com/F3DR6ca.jpg) 
     * ![](https://i.imgur.com/LSfw6cd.jpg)
+* (9/15)![](https://i.imgur.com/yVvrYHC.jpg)
+
 #### 加強監測方案 [(8/23-140300)](https://www.youtube.com/watch?v=CLIKmO6KQmE&t=7m56s)
 * 疫情現在目前穩定，不過怎麼樣有更多的方式對疫情警訊能夠及早監測，有一些本來已經在做的，與開始要做的一些相關加強監測方案。隨時滾動式的檢討
 * ![](https://i.imgur.com/ACApVgC.jpg)
@@ -169,118 +171,79 @@
 * [2021.5.11~ 新聞稿列表](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H1GfZNKcd) 
 * [Memories](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/SJ6mHuq9d)
 
-#### 2021.9.14
+#### 2021.9.15
 
-* 影片連結 [1](https://www.youtube.com/watch?v=IEWjo1RJoQM)
-* 疫情 [(9/14-140321)](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=8m16s) 
-	* [2021.9.14 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/W196H8qkJGfIOVIQAJ-jeA?typeid=9) [![](https://i.imgur.com/Cks5Lbw.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1980919952074413) 
-	* ![](https://i.imgur.com/qCOsWhj.jpg)
-	* 本土 +2
-	    * 新北幼兒園群聚 +2 (居隔)
-	* 境外 +3 ![](https://i.imgur.com/bQCUgBJ.png)
-	* [(9/14-140549)](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=10m45s) ![](https://i.imgur.com/2foTidZ.jpg)
-	* [(9/14-140630)](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=11m26s) +1.3萬 / 人口涵蓋率 48.75% / 劑次人口比 53.52%
+* 影片連結 [1](https://www.youtube.com/watch?v=J8pHJoyKAmk)
+* 疫情 [(9/15-140522)](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=10m33s) 
+	* [2021.9.15 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/G37NdiMeLNMQr3kLi-uqcA?typeid=9) [![](https://i.imgur.com/WCSHtXP.jpg)](https://www.facebook.com/mohw.gov.tw/posts/1981673258665749) 
+	* 本土 +1，[案 16213](https://covid-19.tycg.gov.tw/home.jsp?id=8&parentpath=0,1&mcustomize=multimessages_view.jsp&dataserno=202109150006&aplistdn=ou=news,ou=chinese,ou=ap_root,o=tycg,c=tw&toolsflag=Y&websiteid=202105260001)
+	    * 6 月初 = AZ (9/15-[143627](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=41m38s))
+	    * 9/7 = 因工作例行篩檢要求快篩陰性
+	    * 9/8 = ==目前從這天視為可傳染期，這是比較嚴格在列==
+	    * 9/12 = 輕微流鼻水﹑頭暈等症狀
+	    * 9/14 = 因工作例行篩檢要求快篩確診
+	    * (9/15-[143221](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=37m32s)) CT(14)，今天也做點突變的快速檢驗，==已確認病毒株是 Delta==，後續完整序列預計大概後天出來
+	    * 因為是在機場裡航空器客艙的清潔工作，所以目前是往這個方向做感染源的溯源，會就相關航班的入境確診個案做一些比對
+	* 境外 +4 ![](https://i.imgur.com/SZH2HE5.png)
+	* [(9/15-140707)](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=12m18s) +1.3萬 / 人口涵蓋率 48.79% / 劑次人口比 53.32%
 * 二級緊戒
-    * (9/14-[141251](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=17m47s)) 機組員長期沒有辦法就醫的問題，昨天好像是有跟機組員工會討論，決議最近要在台北、桃園﹑台中和高雄設置專門院所，想請教醫院名單有確定了嗎? 那詳細的就醫如何?
-        * 就是大家討論，有體認他們確實有就醫的困難，雖然我們一再呼籲說不得拒絕病人
-        * 所以為了解決這樣實際的問題，會來指定一些醫院做相關的服務，醫院名單還沒有確定，現在只是先把方向訂出來。希望在一個禮拜內能夠完成這個工作
-    * (9/14-[141226](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=17m22s)/141341) 自主健康管理不能上班，可以上課嗎? 
-        * 原公告
-            * 在公告部分，是說如果沒有出現任何症狀可以正常生活，必須外出時請一定嚴格遵守全程正確佩戴醫用口罩並避免出入無法保持社交距離或容易近距離接觸不特定人之場所
-            * 這邊大概就看(地方)衛生局如何去定義學校這個部分，如果衛生局或是學校有做規定的話，就依學校跟衛生局這邊規定來進行
-        * 新指引
-            * 在 8 月決定要開學前，教育部有[公布的指引](https://www.facebook.com/www.edu.tw/posts/1945935312247747)(也有跟各地方政府有先溝通過)，在這個新的指引裡面有提到就是說，具有 COVID-19 感染風險者，不可入校或入園(園是指幼兒園)
-            * 所以依據教育部新政策，經過衛生主管機關或檢疫人員開立居家隔離﹑居家檢疫或加強自主健康管理﹑自主健康管理通知書的這些人員，在這段期間是不能夠實體到學校去上學，不過可以在家裡用視訊或遠距的方式維持繼續教育的權益 
-            * ![](https://i.imgur.com/OJOGL1T.jpg)
-* :::spoiler 問題列表
-    1. (9/14-[140650](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=11m45s)/140733) BNT / 意願統計
-    2. (9/14-[140700](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=11m56s), 142148) 莫德納 / 第二劑
-    3. (9/14-[140706](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=12m2s)/140804) 莫德納第二劑 1~3 類與孕婦已開放
-    4. (9/14-[140939](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=13m34s)/141037) 警察 / 第二劑
-    5. (9/14-[140900](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=13m56s)) 學生接種
-    6. (9/14-[141105](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=16m1s)/141216) 五倍卷 / 健檢與醫美?[==壹電視 :shaved_ice:==]
-    7. (9/14-[141127](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=16m22s)/141143) 第二劑 / 第二類 [==壹電視 :shaved_ice:==]
-    8. (9/14-[141226](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=17m22s)/141341) 自主健康管理不能上班，可以上課嗎? 
-    9. (9/14-[141251](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=17m47s)) 機組員長期沒有辦法就醫的問題，昨天好像是有跟機組員工會討論，決議最近要在台北、桃園﹑台中和高雄設置專門院所，想請教醫院名單有確定了嗎? 那詳細的就醫如何? 
-    10. (9/14-[141521](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=20m16s)/141601) 新北幼兒園群聚 / [社區接種](https://www.cdc.gov.tw/Bulletin/Detail/v1sSfEVivWrYxo5RIoJFCw?typeid=9) / 屏東與板橋的情況差異 [中視]
-    11. (9/14-[141542](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=20m38s)) 混打實驗 / 莫德納+高端 [中視]
-    12. (9/14-[141700](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=21m56s)/141744) 疫苗好壞與死亡通報數的關聯性? [==華視 :doughnut:==]
-    13. (9/14-[141728](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=22m23s)/141828) 嚴格防疫 適度鬆綁? [==華視 :doughnut:==]
-    14. (9/14-[141857](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=23m53s)) 中秋烤肉? 地方根據管理的必要訂定相關指引去做 [==壹電視 :shaved_ice:==]
-    15. (9/14-[141932](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=24m28s)) 幼兒園群聚 / 裝潢工的基因定序已經出來了嗎?
-    16. (9/14-[142045](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=25m41s)) 第一劑推薦 AZ (因為不論是什麼時候打 混打，都可以選擇不同的廠牌，像是莫德納或 BNT，也都能夠來加強保護力)? 沒有，這根據大家的一個自由的選擇，目前來講看起來是打了 AZ 以後，第二劑的靈活度相對是比較高，不過還是要尊重自己的判斷
-    17. (9/14-[142229](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=27m25s))  BNT + 莫德納 心肌炎
-    18. (9/14-[142249](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=27m45s)) 1922 預約系統 / 符合資格者不用簡訊登入預約 / 可以登入檢查一下手機號碼
-    19. (9/14-[142433](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=29m29s)/142518) 9/20 之後會鬆綁還是加嚴呢? 可能會放鬆的，現在都在蒐集跟討論中，目前並沒有要加嚴的準備
-    20. (9/14-[142453](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=29m49s)/142532) 能否用基因定序推估幼兒園群聚 delta 是從哪個國家來的嗎?
-    21. (9/14-[142648](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=31m44s)) 在國外打過第一劑的學生，能否在這次一起造冊施打? 當然那個有相關的資料 我想這會做個案的討論
-    22. [[摘要] 0914 指揮中心記者會 (laptic)](https://www.ptt.cc/bbs/nCoV2019/M.1631615527.A.6E6.html)
-
-#### 2021.9.13
-
-
-* 影片連結 [1](https://www.youtube.com/watch?v=NRu-zizySKQ)
-* 疫情 [(9/13-140319)](https://www.youtube.com/watch?v=NRu-zizySKQ&t=8m41s) 
-	* [2021.9.13 新聞稿](https://www.cdc.gov.tw/Bulletin/Detail/B3jVw1ZBkJ0AUo5p0q6AoQ?typeid=9) [![](https://i.imgur.com/14ESMQx.png)](https://www.facebook.com/mohw.gov.tw/posts/1980122725487469) 
-	* 本土 +2
-	    * 新北幼兒園群聚 +1
-	    * [案 16203](https://www.facebook.com/myntpc/posts/4956112217739451) - 9/10 案 16179 接觸者
-	* 境外 +3 ![](https://i.imgur.com/VPw9jo1.png)
-	* [(9/13-141131)](https://www.youtube.com/watch?v=NRu-zizySKQ&t=16m53s) +14.7萬(147,418) / 人口涵蓋率 48.68% / 劑次人口比 53.14% 
-* 二級警戒措施
-    * [(9/13-140427)](https://www.youtube.com/watch?v=NRu-zizySKQ&t=9m49s) ![](https://i.imgur.com/F3DR6ca.jpg) 
-    * ![](https://i.imgur.com/LSfw6cd.jpg)
-    * (9/13-141343) 涵蓋率與防疫措施
-        * 能夠達到兩劑 70~80%，當然可以形成相當好的保護力，不過也要看疫苗打的比較多的國家，現在的情況是怎麼樣
-        * 兩個比較指標的
-            * 以色列 = 昨天案例達到 6500 左右
-            * 新加坡 = 達到 80% 以上，不過也兩天確診也超過 550
-        * 到時候如果我們達到這麼高的涵蓋率，一些接種較快的國家，他們的經驗可以讓我們做參考
-    * (9/13-141528) 完整接種與檢疫長短
-        * 我們到現在在政策面一直沒有開放，所謂打過幾劑疫苗(可以縮短檢疫時間)，除了機師前段時間有這樣的規劃之外，其他的都沒有這樣的規劃
-        * 因為其實突破性感染也蠻多，這方面我們要謹慎
-* [各類問題](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/HyQwwNzhu)
-    * (9/13-141553/141634) 主管單位如果沒有對疫調有隱藏欺瞞，也沒有要處罰的問題 [==台視  :honey_pot:==]
-    * (9/13-141743/141812) 未來新冠有無朝向輕症化的可能? 未來會怎麼樣跟病毒做較和平的共存，不用每次有個案都跟驚弓之鳥一樣? [==八大電視 :cake:==]
-        * 應該是呼籲社會，對於有個案產生的時候，大家要鎮靜地去面對它，把個人應該的防疫動作做好就好
-        * 張: 有一定跡象的可能性，但目前還不敢完全斷定就是會輕症化，還是要積極施打疫苗。繼續觀察
-        * 李: 未來會怎樣現在還沒辦法有定論；以流感來看，如果出現大突變的話，通常對人類的衝擊不會在短期內消失，大概 2~3 年內會出現幾波的流行，等到大部分的人對它有免疫力，它變成所謂輕症化，這隻大突變對我們的威脅才會變少(2009 H1N1 新型流感)
-        * 新冠病毒也很有可能這樣，因為對於一般引起感冒的冠狀病毒，跟我們對流感病毒的瞭解，它大概都是這樣子，但要多久才能完全恢復正常生活﹑完全輕症化，還有待進一步的觀察
-    * (9/13-143448/143529) 匡列標準是中央訂，還是授權地方自己訂，匡列太寬真的會被刪除嗎? 
-        * 9/10 區管中心有跟衛生局的人員一起討論，有關在文山區個案有60 位的接觸者，當時跟衛生局也同意改列自我健康監測，並沒有把他刪除，我想可能是有誤解
-        * 後來第二天他們又把這 60 位列為居家隔離，目前都還是居家隔離，我們也沒有再做任何修正
-    * (9/13-143948) 從來沒有因為有簡體字而延宕了疫苗的進來，這我必須要鄭重地，個人在講這個事情的時候，不要曲解這個情況。甚至於到後來有復必泰相關的一些簡體字，我們也是毅然決然地決定讓他進口，所以絕對沒有拖延之說
-* [疫苗資訊](https://hackmd.io/Rl4fM4FpQwqUgBPVhV5D7A)
-    * [(9/13-140829)](https://www.youtube.com/watch?v=NRu-zizySKQ&t=13m51s) ![學生接種BNT疫苗後應注意的心肌炎/心包膜炎](https://i.imgur.com/BMeZyKN.jpg)
-    * (9/13-143222/143313) AZ 與 格林巴利症候群 [==TVBS :lollipop:==]
-        * 包括 RNA 疫苗跟腺病毒疫苗 它都有很多 Guillain-Barre syndrome 格林巴利症候群，用白話文講是多發性神經炎 GBS，這個在國外就有很多這樣的報告
-        * 可是它的打疫苗以後的通報率跟背景值相比，並沒有明顯上升，所以以前一直沒有把它列為一個必須注意的事件
-        * 不過歐盟覺得說，好像必須要特別去監測 RNA 疫苗跟 Guillain-Barre syndrome 的相關性。可是它只是一個提醒，要比較加強監測而已，歐盟目前也還沒有明顯數據顯示說打了新冠病毒疫苗以後，會增加多發性神經炎的發生率
-        * 至於台灣，一直有在追蹤打各種疫苗以後，所有可能受到關注的不良反應的發生率，然後用以前健保資料庫的背景值去做比較，一直到目前為止多發性神經炎也是被監測的項目之一，目前並沒有比背景值更高的一個警訊
-    * (9/13-141613/141709) BNT 需要經過多達 15 道的稀釋過程 [==台視  :honey_pot:==]
-    * (9/13-143501/143628) 打疫苗與自然產生的抗體如何區別?
-        * 因為我們打的(疫苗所產生的)抗體，目前都是針對 S 蛋白的抗原來產生的，所以能偵測到的全部都是對於 S 蛋白的抗體
-        * 自然感染的話，就不只 S 蛋白的抗體，還有其他蛋白的抗體，特別是現在很方便檢測 N 抗原的抗體
-        * 所以可以用這樣的方式，分辨是疫苗造成的抗體或者是自然感染所造成的抗體，是可以做區別的
+    * (9/15-[141854](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=24m5s)) 降級可能? 分區降級? [==東森 :doughnut:==] 
+        * 因為連續幾起群聚事件，所以 9/20 沒有做降級的打算，不過讓生活能夠恢復更多的正常化，這個是有在做相關的準備
+        * 現在是設定一個警戒的級數，但相關的指引有些部分是授權讓地方來做核定
+    * (9/15-[141554](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=21m5s)/141724) 檢疫措施是否應該有所調整? 
+        * 我們在邊境的管理，相對各國來講也還算是嚴格，我想要確實去執行目前的檢疫的規範就應該能夠把疫情控制在一定的範圍
+        * 當然有證據顯示潛伏期更長，那可能要再來考慮，不過目前都沒有證據顯示他的潛伏期會更長
+        * 不過發病以後，帶病毒的時間會更長，這一點在解隔離的規範就更嚴格
+    * (9/15-[142040](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=25m51s)) 關於解隔離
+        * 確診病例 = 9/3 公布
+            * 不管是境外移入病例是否有定序出來是 delta 或者是我們本土有驗到的 delta 病例，都是按照這個必須要在發病後或者是沒有發病的話是由檢驗陽性日算起至少 10 天且症狀有緩解退燒，再加上有驗兩套 PCR 都是陰性或 ct 值大於等於 30 
+            * 會搭配入住醫院的負壓隔離病房或專責病房，避免在這個社區中的，比如說防疫旅館或是集中檢疫所的隔離的情形有不足的地方
+        * 入境檢疫 
+            * 還是按照目前的檢疫規定 到防疫旅館或者是到集中檢疫所隔離 14天，當中有入境唾液篩檢﹑第 10 天~第 12 天的一次居家快篩，以及解隔離前的一次 PCR 的採檢
 * [目前接種與預計開放情況](https://hackmd.io/@X3iwPYFoQeS00wezEjCf3w/H180Wamsd)
-    * [(9/13-140746)](https://www.youtube.com/watch?v=NRu-zizySKQ&t=13m8s) ![](https://i.imgur.com/4cH4gGn.jpg)
-    * (9/13-141216) 目前 mRNA 的混打還有沒一個最後的決定
-    * (9/13-141508) 第八期疫苗分配與開放預約數量
-        * 疫苗分配數量是以預約跟造冊為主，有一些造冊比較晚，大家沒有被造冊通知到(通知得比較晚)，心急就先去預約了
-        * 我們會盡速把名單整理好，重新調配相關疫苗的分配
-    * (9/13-142730) 再 10 天青少年就要施打 BNT 疫苗了，想請問他們如果填完意願書之後，有反悔的機會嗎? 那如果是現場突然不打，這樣會不會有殘劑可以釋出?
-        * 這個我們打疫苗，都可以在施打之前改變你的主意，都沒問題，我們都尊重個人的選擇
-        * 如果有殘劑，那當然可以給相關，可能是學校的人員來施打。殘劑不會很多，是用到最後一瓶所剩下的那一部分叫殘劑
-    * (9/13-142211/142259) 提高第二劑的覆蓋率，目前來說，是不是有它的必要性 [==民視 :cake:==]
-        * 到底更多人打第一劑或第二劑，(哪一種)對防疫能發揮最大的效能，要看當地的流行情況來決定
-        * 一開始採取大家拚第一劑，第二劑先暫緩的是英國
-            * 事後他們去回顧對疫情的控制，覺得這個政策很有效，因為只打一劑AZ 或 BNT 疫苗，它發揮的保護效果是超過 50% 的，可能達到 7﹑8 成左右，比起少數的人打二劑的保護還來的有效，但是這是實證並沒有一個對照組，他們也是認為是很有效的
-            * 意思就是說，當時的英國是到處都是疫情，所有的人都會有感染風險，他們還是會把焦點放在老人家跟高暴露族群，他們會打二劑，其他的暴露風險比較低，就只打一劑而已
-        * 如果是比較沒有疫情的地方，像台灣目前的現況
-            * 全部打第一劑(雖然它的效率不是那麼好)跟把一半的人打第二劑，兩者其實沒有很大差別，因為我們沒有非常大規模的流行
-            * 如果有局部流行，比如說上次的萬華事件，可以考慮在流行地區的高危險族群還有醫護人員(高暴露風險的人)必須要打二劑，其他一般人趕快打第一劑(還有疫苗的話在打，趕快去打第二劑)，但是台灣目前沒有這種的情況
-        * 所以我個人的意見是認為說，在台灣的現況，拚第一劑的覆蓋率跟少數人打第二劑，二者的政策差異對我們(疫情)的控制，並不一定很重要，更重要的是要持續戴口罩這些防疫政策
-* [[摘要] 0913 指揮中心記者會 (laptic)](https://www.ptt.cc/bbs/nCoV2019/M.1631545524.A.E94.html)
+    * [(9/15-140734)](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=12m47s)
+        * ![1](https://i.imgur.com/gyWRzWJ.jpg)
+        * A1: 建議意願登記可以每個疫苗都打勾，這樣任何一個疫苗輪到你的年紀或符合資格，就都會被選到
+        * A2: 同一廠牌會中斷一輪
+        * ![2](https://i.imgur.com/QJ18JxK.jpg)
+        * ![3](https://i.imgur.com/nmco2tN.jpg)
+        * A2: 我們會隨時偵測平台上的一些狀況，就像這次的第八期有偵測到類似的狀況，會緊急調度請地方政府再多加開，所以可能必須要常常去留意平台的相關接種訊息，如果有開的話，就可以再上去做預約
+        * ![4](https://i.imgur.com/PefE9gg.jpg)
+        * ![5](https://i.imgur.com/yVvrYHC.jpg)
+    * (9/15-[141957](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=25m8s)/142202) 面對 delta 高風險族群達 90% 涵蓋率是較安全的方式，是否調整疫苗策略改拚第二劑? 用 BNT 混打? 邊境解封規劃? 
+        * 現在的策略還是一樣，這樣子兩邊來並行
+            * AZ = 因為 AZ 開始的比較早，所以現在開始打第二劑 (75+)
+            * 莫德納 = 未來在這個禮拜過後，就面臨打第二劑的壓力，進來的莫德納也規劃打第二劑 (65+)
+            * BNT = 規劃打第一劑
+            * 高端 = 相關研究到現在還是只有隔四個禮拜左右就要打，所以這個月也會以打第二劑為主
+        * 要到達多少的涵蓋率
+            * 事實上我們有 0~12 歲的小朋友，現在還沒有適合的疫苗可以打，所以不太可能全部的人都來打
+            * 但是希望不管是第一劑也好，第二劑也好儘量能夠滿足民眾的需求，以這樣的方向在做規劃
+* :::spoiler 問題列表
+    1. (9/15-[141518](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=11m45s)) 混打 / 莫德納+高端 / 看法與是否會開放? (A): 相關的一些實驗都在進行﹑依結果請專家評估  [==台視 :candy:==]
+    2. **(9/15-[141554](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=21m5s)/141724) 幼兒園 / 檢疫措施是否應該有所調整?** 
+    3. (9/15-[141637](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=21m48s)) 混打 / 莫德納+高端 / 規劃與實驗標準?
+    4. (9/15-[141820](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=23m31s))  莫德納 / 擔心第二劑混打的人
+    5. **(9/15-[141854](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=24m5s)) 降級可能? 分區降級? [==東森 :doughnut:==]** 
+    6. **(9/15-[141957](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=25m8s)) 改拚第二劑? 邊境解封規劃?**
+    7. (9/15-[142317](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=28m28s)/142334) mRNA 混打蛋白疫苗，這樣是 ok 的嗎?
+    8. (9/15-[142324](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=28m35s)/142413) 高端目前可使用量或是未來預定每個月可以提供的量能?
+    9. (9/15-[142436](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=29m47s))  今天新增桃園確診個案，我們掌握到消息好像是在機場裡頭工作，然後好像有負責機艙的消毒清潔，現在針對機場有沒有進行清消? 另外他有打疫苗嗎 是不是屬於突破性感染? (A): 有打過一劑疫苗 [==東森 :doughnut:==]
+    10. (9/15-[142556](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=31m7s)) AZ / 副作用診斷與類似通報個案?
+    11. (9/15-[142637](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=31m48s)) 邏輯不太懂的提問
+    12. (9/15-[142719](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=32m30s))  境外移入案 16210 無陰性證明? (A): 有陰性證明
+    13. (9/15-[142907](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=34m18s)/142944)  莫德納新進貨消息? [==民視 :cake:==]
+    14. (9/15-[142920](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=34m31s)/142955)  變異假訊息相關調查與處理? (A): 身分相關證件，如有遺失，一定務必要依照程序，通報廢止 [==民視 :cake:==]
+    15. **(9/15-[143208](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=37m19s)) 本土病例相關提問**
+    16. (9/15-[143418](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=39m29s)/143523) 混打 / AZ+莫德納 臨床研究初步成果? 可以作為混打 BNT 的參考嗎? (A): 交給專家做判定
+    17. (9/15-[143442](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=39m53s)/143908) 聯亞 / 第三劑實驗進度? (A): 讓他們專業根據程序在走，我們行政體系不便在上面發表意見
+    18. (9/15-[143449](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=40m)) 未來出國可能性評估? [中視]
+    19. **(9/15-[143545](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=40m56s)/143622) 本土個案接種疫苗品牌?** 
+    20. (9/15-[143603](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=41m14s)/143632) 校園接種 / 地方做法各有不同 後續上課是否有通則或指引?
+    21. (9/15-[143652](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=42m52s)) 校園接種 / 意願公布? (A): 數字完整再跟大家報告
+    22. (9/15-[143749](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=43m)) 混打實驗可行性評估?
+    24. [[摘要] 0915 指揮中心記者會  (laptic)](https://www.ptt.cc/bbs/nCoV2019/M.1631707328.A.B19.html)
+
 
 #### 呼籲全國民眾
 
@@ -324,8 +287,9 @@
 
 #### 關連與新增個案
 
-* [(9/14-140437)](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=9m33s) ![](https://i.imgur.com/s6AV98u.jpg)
+* [(9/15-140656)](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=12m7s) ![](https://i.imgur.com/83u4brI.jpg)
 * :::spoiler 過去關聯圖
+    * [(9/15-140656)](https://www.youtube.com/watch?v=J8pHJoyKAmk&t=12m7s) ![](https://i.imgur.com/83u4brI.jpg)
     * [(9/14-140437)](https://www.youtube.com/watch?v=IEWjo1RJoQM&t=9m33s) ![](https://i.imgur.com/s6AV98u.jpg)
     * [(9/13-140553)](https://www.youtube.com/watch?v=NRu-zizySKQ&t=11m15s) ![](https://i.imgur.com/gqeRuSt.jpg)
     * (9/12) ![](https://i.imgur.com/iwaiUkc.jpg)
@@ -1402,7 +1366,6 @@
 [![](https://i.imgur.com/3zMOZ54.jpg)](https://www.facebook.com/frankcthsiehfans/posts/10158209910441430)
 
 :::
-
 
 
 
